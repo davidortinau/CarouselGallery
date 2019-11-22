@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="Wheat"
+             Shell.BackgroundColor="Black"
+             Title="REI"
+             x:Class="CarouselGallery.Views.REIPage">
+    <ContentPage.Content>
+        <StackLayout Margin="15">
+            <Frame BackgroundColor="White"
+                   Padding="10"
+                   BorderColor="Black"
+                   CornerRadius="0">
+                <CarouselView>
+                    <CarouselView.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>rei_01.jpg</x:String>
+                            <x:String>rei_02.jpg</x:String>
+                            <x:String>rei_03.jpg</x:String>
+                            <x:String>rei_04.jpg</x:String>
+                        </x:Array>
+                    </CarouselView.ItemsSource>
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding .}"/>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>                
+                </CarouselView>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
