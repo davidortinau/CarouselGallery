@@ -7,6 +7,9 @@
        mc:Ignorable="d"
              x:Class="CarouselGallery.AppShell">
 
+    <FlyoutItem Title="Mint">
+        <views:MintPage/>
+    </FlyoutItem>
     <FlyoutItem Title="Lufthansa">
         <views:LufthansaPage/>
     </FlyoutItem>

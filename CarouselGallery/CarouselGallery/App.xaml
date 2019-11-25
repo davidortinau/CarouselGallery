@@ -6,6 +6,34 @@
              mc:Ignorable="d"
              x:Class="CarouselGallery.App">
     <Application.Resources>
+        <ResourceDictionary>
+            <OnPlatform x:Key="FontAwesome"
+                x:TypeArguments="x:String">
+                <On Platform="Android" Value="fa-solid-900.ttf#Font Awesome 5 Free"/>
+                <On Platform="iOS" Value="Font Awesome 5 Free"/>
+                <On Platform="UWP" Value="Assets/Fonts/fa-solid-900.ttf#Font Awesome 5 Free"/>
+            </OnPlatform>
 
+            <Color x:Key="PrimaryColor">#000000</Color>
+
+
+            <Style x:Key="BaseStyle"
+                   TargetType="Element">
+                <Setter Property="Shell.BackgroundColor"
+                        Value="{StaticResource PrimaryColor}" />
+                <Setter Property="Shell.ForegroundColor"
+                        Value="#ffffff" />
+                <Setter Property="Shell.TitleColor"
+                        Value="White" />
+                <Setter Property="Shell.DisabledColor"
+                        Value="#B4FFFFFF" />
+                <Setter Property="Shell.UnselectedColor"
+                        Value="#33FFFFFF" />
+            </Style>
+
+            <Style BasedOn="{StaticResource BaseStyle}"
+                   ApplyToDerivedTypes="True"
+                   TargetType="FlyoutItem" />
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
