@@ -9,12 +9,12 @@
              Title="REI"
              x:Class="CarouselGallery.Views.REIPage">
     <ContentPage.Content>
-        <StackLayout Margin="15">
+        <StackLayout Margin="15" Spacing="10">
             <Frame BackgroundColor="White"
                    Padding="10"
                    BorderColor="Black"
                    CornerRadius="0">
-                <CarouselView>
+                <CarouselView x:Name="reiCV" HeightRequest="180">
                     <CarouselView.ItemsSource>
                         <x:Array Type="{x:Type x:String}">
                             <x:String>rei_01.jpg</x:String>
@@ -27,9 +27,15 @@
                         <DataTemplate>
                             <Image Source="{Binding .}"/>
                         </DataTemplate>
-                    </CarouselView.ItemTemplate>                
+                    </CarouselView.ItemTemplate>
                 </CarouselView>
             </Frame>
+            <IndicatorView 
+                IndicatorColor="LightGray"
+                SelectedIndicatorColor="Black"
+                IndicatorSize="10" HorizontalOptions="Center"
+                IndicatorView.ItemsSourceBy="reiCV"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
