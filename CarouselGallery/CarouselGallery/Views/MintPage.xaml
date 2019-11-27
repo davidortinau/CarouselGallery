@@ -5,6 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              xmlns:local="clr-namespace:CarouselGallery"
+             xmlns:c="clr-namespace:CarouselGallery.Views.Components"
              x:Class="CarouselGallery.Views.MintPage">
 
     <Grid>
@@ -17,15 +18,23 @@
                       PeekAreaInsets="60"
                       >
             <CarouselView.ItemsSource>
-                <x:Array Type="{x:Type x:String}">
-                    <x:String>rei_01.jpg</x:String>
-                    <x:String>rei_02.jpg</x:String>
-                    <x:String>rei_03.jpg</x:String>
-                    <x:String>rei_04.jpg</x:String>
-                    <x:String>rei_03.jpg</x:String>
-                    <x:String>rei_04.jpg</x:String>
+                <x:Array Type="{x:Type ContentView}">
+                    <c:MintView01/>
+                    <c:MintView02/>
+                    <c:MintView01/>
+                    <c:MintView02/>
+                    <c:MintView01/>
+                    <c:MintView02/>
+                    <c:MintView01/>
                 </x:Array>
             </CarouselView.ItemsSource>
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <ScrollView>
+                        <ContentView Content="{Binding .}"/>
+                    </ScrollView>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
             <CarouselView.ItemsLayout>
                 <LinearItemsLayout
                     Orientation="Horizontal"
@@ -33,49 +42,6 @@
                     SnapPointsType="Mandatory"
                     ItemSpacing="15"/>
             </CarouselView.ItemsLayout>
-
-            <CarouselView.ItemTemplate>
-                <DataTemplate>
-                    <ScrollView>
-                        <Grid Margin="0,15">
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="350"/>
-                                <RowDefinition Height="*"/>
-                            </Grid.RowDefinitions>
-                            <Frame
-                                Visual="Default"
-                                HasShadow="True"
-                                CornerRadius="12"
-                                BackgroundColor="LightBlue">
-                                
-                            </Frame>
-
-                            <StackLayout 
-                                Grid.Row="1"
-                                Spacing="30">
-                                <Label Text="Upcoming bills"
-                                       FontSize="28"
-                                       TextColor="Black"
-                                       HorizontalTextAlignment="Center"/>
-                                <Image
-                                    Source="{FontImage
-                                    FontFamily={StaticResource FontAwesome},
-                                    Glyph={x:Static local:IconFont.MoneyBillWave},
-                                    Color=LightSeaGreen,
-                                    Size=80}"/>
-
-                                <Label
-                                    Text="No bills to worry about right now."
-                                    FontSize="Small"
-                                    TextColor="DarkGray"
-                                    HorizontalTextAlignment="Center"/>
-                            </StackLayout>
-                            
-                        </Grid>
-                    </ScrollView>
-                </DataTemplate>
-            </CarouselView.ItemTemplate>
-            
         </CarouselView>
 
         <Frame Grid.Row="1" HorizontalOptions="Center" 
