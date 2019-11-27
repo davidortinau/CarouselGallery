@@ -10,6 +10,12 @@
              x:Class="CarouselGallery.Views.REIPage">
     <ContentPage.Content>
         <StackLayout Margin="15" Spacing="10">
+            <!--<Frame BackgroundColor="White"
+                   Padding="10"
+                   BorderColor="Black"
+                   CornerRadius="0">
+                <Image Source="rei_01.jpg"/>
+            </Frame>-->
             <Frame BackgroundColor="White"
                    Padding="10"
                    BorderColor="Black"
