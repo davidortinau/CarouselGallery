@@ -16,5 +16,12 @@ namespace CarouselGallery.Views.Components
         {
             InitializeComponent();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage.DisplayAlert("You Did It!",
+                "Thanks for tapping. There is no activity to see at this time. Have a nice day!",
+                "Bye!");
+        }
     }
 }

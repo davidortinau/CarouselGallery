@@ -16,36 +16,37 @@
                                 HasShadow="True"
                                 CornerRadius="12"
                                 BackgroundColor="#2EC980">
-            <StackLayout>
+            <StackLayout Spacing="15">
                 <Image Source="{FontImage
                                     FontFamily={StaticResource FontAwesome},
                     Glyph={x:Static local:IconFont.DollarSign},
-                    Size=32,Color=DarkGreen}"
+                    Size=64,Color=DarkGreen}"
                        HorizontalOptions="Center"/>
                 <Label Text="CASH FLOW"
                        TextColor="White"
-                       FontSize="18"
+                       FontSize="16"
                        HorizontalTextAlignment="Center"/>
                 <Label Text="You earned $2,576 more than you spent"
                        TextColor="White"
                        LineBreakMode="WordWrap"
                        FontSize="24"
+                       FontAttributes="Bold"
                        HorizontalTextAlignment="Center"/>
                 <Label Text="Way to save those Benjamins."
                        TextColor="White"
                        LineBreakMode="WordWrap"
-                       FontSize="12"
+                       FontSize="14"
                        HorizontalTextAlignment="Center"/>
             </StackLayout>
 
         </Frame>
 
-        <StackLayout 
-                                Grid.Row="1"
-                                Spacing="30">
+        <StackLayout Margin="0,30"
+                                Grid.Row="1">
             <Label Text="August cash flow"
                                        FontSize="28"
                                        TextColor="Black"
+                   FontAttributes="Bold"
                                        HorizontalTextAlignment="Center"/>
             <Label Text="Earned"
                    FontSize="12"
@@ -67,7 +68,8 @@
                    FontSize="12"
                    BackgroundColor="#ED4E67"
                    Padding="2"
-                   WidthRequest="220"
+                   WidthRequest="120"
+                       HorizontalOptions="Start"
                    TextColor="White"/>
             </Frame>
 
@@ -76,10 +78,10 @@
                      BackgroundColor="#F8F5F9"/>
 
             <Label Text="Net income over time"
-                                       FontSize="24"
+                                       FontSize="16"
                                        TextColor="Black"
                                        HorizontalTextAlignment="Center"/>
-
+            <Image Source="gallery_bar_chart.png"/>
         </StackLayout>
 
     </Grid>

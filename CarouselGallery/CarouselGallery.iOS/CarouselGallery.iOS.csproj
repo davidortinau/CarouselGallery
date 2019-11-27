@@ -147,4 +147,16 @@
   <ItemGroup>
     <BundleResource Include="Resources\rei_04.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gallery_bar_chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\icon_plane.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\logo_lufthansa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\qr_code.png" />
+  </ItemGroup>
 </Project>
