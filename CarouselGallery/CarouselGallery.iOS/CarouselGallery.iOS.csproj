@@ -159,4 +159,34 @@
   <ItemGroup>
     <BundleResource Include="Resources\qr_code.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG_0191.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG_0194.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG_0192.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG_0193.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IMG_0195.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\insta_00.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\insta_01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\insta_02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\insta_03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\insta_04.jpg" />
+  </ItemGroup>
 </Project>

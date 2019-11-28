@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CarouselGallery.Views.Components.MarriottView02">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="IMG_0193.jpg" 
+               Grid.RowSpan="3"
+               Grid.ColumnSpan="2"
+               Aspect="AspectFill"/>
+
+        <!-- box -->
+        <StackLayout BackgroundColor="LightGray"
+                     Padding="15"
+                     Grid.Column="0"
+                     Grid.Row="1"
+                     >
+            <Label Text="More than a beach: 5 must-dos in Miami."
+                   TextColor="Black"
+                   FontSize="16"
+                   />
+            <Label Text="> Learn More"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="16"/>
+        </StackLayout>
+
+    </Grid>
+</ContentView>

@@ -4,6 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+             Title="Mint"
              xmlns:local="clr-namespace:CarouselGallery"
              xmlns:c="clr-namespace:CarouselGallery.Views.Components"
              x:Class="CarouselGallery.Views.MintPage">

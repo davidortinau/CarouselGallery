@@ -103,6 +103,16 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\IMG_0191.JPG" />
+    <Content Include="Assets\IMG_0192.JPG" />
+    <Content Include="Assets\IMG_0193.JPG" />
+    <Content Include="Assets\IMG_0194.JPG" />
+    <Content Include="Assets\IMG_0195.JPG" />
+    <AndroidResource Include="Assets\insta_00.jpg" />
+    <AndroidResource Include="Assets\insta_01.jpg" />
+    <AndroidResource Include="Assets\insta_02.jpg" />
+    <AndroidResource Include="Assets\insta_03.jpg" />
+    <AndroidResource Include="Assets\insta_04.jpg" />
     <Content Include="Assets\LargeTile.scale-100.png" />
     <Content Include="Assets\LargeTile.scale-200.png" />
     <Content Include="Assets\LargeTile.scale-400.png" />

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:c="clr-namespace:CarouselGallery.Views.Components"
+             mc:Ignorable="d"
+             Title="Marriott"
+             x:Class="CarouselGallery.Views.MarriottPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="160"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <CarouselView Grid.RowSpan="2">
+            <CarouselView.ItemsLayout>
+                <LinearItemsLayout
+                    Orientation="Vertical"
+                    SnapPointsAlignment="Start"
+                    SnapPointsType="Mandatory"/>
+            </CarouselView.ItemsLayout>
+            <CarouselView.ItemsSource>
+                <x:Array Type="{x:Type ContentView}">
+                    <c:MarriottView01/>
+                    <c:MarriottView02/>
+                    <c:MarriottView01/>
+                    <c:MarriottView02/>
+                </x:Array>
+            </CarouselView.ItemsSource>
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <ContentView Content="{Binding .}"/>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+
+        <Grid Grid.Row="0"
+              Margin="15">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <Label Text="Book a Stay"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   FontSize="16"
+                   Grid.ColumnSpan="3"/>
+
+            <Label Text="David Ortinau"
+                   TextColor="White"
+                   FontSize="14"
+                   Grid.Row="1"
+                   Grid.Column="0"/>
+            <Label Text="67,345 Points"
+                   TextColor="White"
+                   HorizontalTextAlignment="Center"
+                   FontSize="14"
+                   Grid.Row="1"
+                   Grid.Column="1"/>
+            <Label Text="22 Nights"
+                   TextColor="White"
+                   FontSize="14"
+                   Grid.Row="1"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="End"/>
+
+            <Grid Grid.Row="2"
+                  Grid.ColumnSpan="3"
+                  Padding="10"
+                  BackgroundColor="White">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="1"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <Label Text="LOCATION"
+                       TextColor="#666666"/>
+                <Label Text="DATES"
+                       TextColor="#666666"
+                       Grid.Column="2"/>
+                <Entry Grid.RowSpan="2"
+                       VerticalOptions="End"
+                       Placeholder="Where next?"
+                       FontSize="12"
+                       />
+                <Entry Grid.RowSpan="2"
+                       VerticalOptions="End"
+                       Grid.Column="2" FontSize="12"
+                       Placeholder="Select dates."/>
+
+                <BoxView BackgroundColor="#666666"
+                         Grid.Column="1"
+                         Grid.RowSpan="2"/>
+,
+            </Grid>
+        </Grid>
+
+    </Grid>
+</ContentPage>
