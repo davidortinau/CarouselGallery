@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselGallery.Android", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselGallery.iOS", "CarouselGallery\CarouselGallery.iOS\CarouselGallery.iOS.csproj", "{BBBA57AC-3A3F-46F9-8ECA-DDCE137AA3B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselGallery", "CarouselGallery\CarouselGallery\CarouselGallery.csproj", "{9375C6B7-9FA0-4162-B911-D894FD2E3EE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarouselGallery", "CarouselGallery\CarouselGallery\CarouselGallery.csproj", "{9375C6B7-9FA0-4162-B911-D894FD2E3EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,8 +28,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3A401D5D-0F07-48BC-977C-0368917F8274}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{3A401D5D-0F07-48BC-977C-0368917F8274}.Debug|Any CPU.Build.0 = Debug|x86
-		{3A401D5D-0F07-48BC-977C-0368917F8274}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{3A401D5D-0F07-48BC-977C-0368917F8274}.Debug|ARM.ActiveCfg = Debug|ARM
 		{3A401D5D-0F07-48BC-977C-0368917F8274}.Debug|ARM.Build.0 = Debug|ARM
 		{3A401D5D-0F07-48BC-977C-0368917F8274}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -100,7 +98,6 @@ Global
 		{27A3ECEB-7155-48AB-A8F0-64DE2AF643FA}.Release|x86.Build.0 = Release|Any CPU
 		{27A3ECEB-7155-48AB-A8F0-64DE2AF643FA}.Release|x86.Deploy.0 = Release|Any CPU
 		{BBBA57AC-3A3F-46F9-8ECA-DDCE137AA3B3}.Debug|Any CPU.ActiveCfg = Debug|iPhone
-		{BBBA57AC-3A3F-46F9-8ECA-DDCE137AA3B3}.Debug|Any CPU.Build.0 = Debug|iPhone
 		{BBBA57AC-3A3F-46F9-8ECA-DDCE137AA3B3}.Debug|Any CPU.Deploy.0 = Debug|iPhone
 		{BBBA57AC-3A3F-46F9-8ECA-DDCE137AA3B3}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{BBBA57AC-3A3F-46F9-8ECA-DDCE137AA3B3}.Debug|ARM.Build.0 = Debug|iPhone

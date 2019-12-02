@@ -102,7 +102,6 @@
                 <BoxView BackgroundColor="#666666"
                          Grid.Column="1"
                          Grid.RowSpan="2"/>
-,
             </Grid>
         </Grid>
 
