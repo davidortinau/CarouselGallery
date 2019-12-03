@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:CarouselGallery.ViewModels"
+             xmlns:b="clr-namespace:CarouselGallery.Behaviors"
+             mc:Ignorable="d"
+             Title="Disney+"
+             BackgroundColor="#061435"
+             x:Class="CarouselGallery.Views.DisneyPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ActiveIndicator" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="Red" />
+            </Style>
+            <Style x:Key="InactiveIndicator" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="Transparent" />
+                <Setter Property="OutlineColor" Value="Red" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Spacing="10">
+            <Image Source="disney_logo" HorizontalOptions="Center"
+                   HeightRequest="75"
+                   Aspect="AspectFill"/>
+            <!--<BoxView HeightRequest="30"
+                     WidthRequest="60"
+                     HorizontalOptions="Start"
+                     BackgroundColor="Green"/>
+            <BoxView HeightRequest="30"
+                     WidthRequest="120"
+                     HorizontalOptions="Start"
+                     BackgroundColor="Yellow"/>-->
+            <CarouselView x:Name="reiCV"
+                        VerticalOptions="Start"
+                        Position="1"
+                          HeightRequest="200"
+                        PeekAreaInsets="120">
+                <CarouselView.Behaviors>
+                    <b:DisneyCarouselBehavior Scale="0.8"/>
+                </CarouselView.Behaviors>
+                <CarouselView.ItemsSource>
+                    <x:Array Type="{x:Type vm:DisneyItemViewModel}">
+                        <vm:DisneyItemViewModel ImageSource="rei_01.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_02.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_03.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_04.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_01.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_02.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_03.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="rei_04.jpg"/>
+                    </x:Array>
+                </CarouselView.ItemsSource>
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding ImageSource}" 
+                               ScaleX="{Binding Scale}"
+                               ScaleY="{Binding Scale}"
+                               VerticalOptions="Start"/>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
