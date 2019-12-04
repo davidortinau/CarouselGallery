@@ -22,7 +22,7 @@ namespace CarouselGallery.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            global::Xamarin.Forms.Forms.SetFlags("CarouselView_Experimental");
+            global::Xamarin.Forms.Forms.SetFlags("CarouselView_Experimental", "IndicatorView_Experimental");
             Xamarin.Forms.FormsMaterial.Init();
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());

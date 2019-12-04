@@ -122,10 +122,10 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.4.0.936657-pre3" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.30-nightly" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.4.0.936657-pre3</Version>
+      <Version>4.5.0.30-nightly</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
@@ -188,5 +188,8 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\insta_04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\disney_logo.png" />
   </ItemGroup>
 </Project>
