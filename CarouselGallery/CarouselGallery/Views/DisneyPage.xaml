@@ -35,9 +35,8 @@
                      BackgroundColor="Yellow"/>-->
             <CarouselView x:Name="reiCV"
                         VerticalOptions="Start"
-                        Position="1"
-                          HeightRequest="200"
-                        PeekAreaInsets="120">
+                        Position="0"
+                          HeightRequest="200">
                 <CarouselView.Behaviors>
                     <b:DisneyCarouselBehavior Scale="0.8"/>
                 </CarouselView.Behaviors>

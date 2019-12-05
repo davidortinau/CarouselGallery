@@ -1,6 +1,7 @@
 ﻿using CarouselGallery.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using Xamarin.Forms;
@@ -35,22 +36,28 @@ namespace CarouselGallery.Behaviors
         {
             var carousel = (CarouselView)sender;
             var carouselItems = carousel.ItemsSource.Cast<object>().ToList();
-            var currentIndex = e.CenterItemIndex;
-            var lastIndex = e.LastVisibleItemIndex;
-            var firstIndex = e.FirstVisibleItemIndex;
+            var centerIndex = e.CenterItemIndex;
+            var nextIndex = e.LastVisibleItemIndex;
+            var prevIndex = e.FirstVisibleItemIndex;
             var layout = carousel.ItemsLayout;
-            var adjust = Device.RuntimePlatform == Device.Android ? 2.6 : 1;
+            var adjust = Device.RuntimePlatform == Device.Android ? 1 : 1;
 
             if (layout is LinearItemsLayout linearItemsLayout)
             {
                 if (linearItemsLayout.Orientation == ItemsLayoutOrientation.Horizontal)
                 {
-                    var firstItem = carouselItems[firstIndex] as DisneyItemViewModel;
-                    var lastItem = carouselItems[lastIndex] as DisneyItemViewModel;
-                    firstItem.Scale = lastItem.Scale = Scale;
+                    var carouselWidth = carousel.Width;
+                    var offset = (carouselWidth * (centerIndex + 1)) - (e.HorizontalOffset / adjust);
+                    var scaleChange = (1 - Scale) * (offset / carouselWidth);
 
-                    var currentItem = carouselItems[currentIndex] as DisneyItemViewModel;
-                    currentItem.Scale = 1.0;
+                    Debug.WriteLine($"CurrentIndex: {centerIndex}, Scale: {scaleChange}, offset: {offset}, hOffset: {e.HorizontalOffset}");
+
+                    var firstItem = carouselItems[prevIndex] as DisneyItemViewModel;
+                    var lastItem = carouselItems[nextIndex] as DisneyItemViewModel;
+                    firstItem.Scale = lastItem.Scale = 1 - scaleChange;// - scale;
+
+                    var currentItem = carouselItems[centerIndex] as DisneyItemViewModel;
+                    currentItem.Scale = Scale + scaleChange;// - scale;
                 }
 
                 
