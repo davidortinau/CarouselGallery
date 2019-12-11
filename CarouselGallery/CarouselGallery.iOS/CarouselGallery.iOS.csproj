@@ -67,6 +67,11 @@
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <BundleResource Include="Resources\fa-solid-900.ttf" />
+    <BundleResource Include="Resources\h05.png" />
+    <BundleResource Include="Resources\h04.png" />
+    <BundleResource Include="Resources\h03.png" />
+    <BundleResource Include="Resources\h02.png" />
+    <BundleResource Include="Resources\h01.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -122,30 +127,18 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.5.0.2" />
+    <PackageReference Include="Xamarin.Forms" Version="4.4.0.991220-pre3" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.5.0.2</Version>
+      <Version>4.4.0.991220-pre3</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\CarouselGallery\CarouselGallery.csproj">
-      <Project>{BC744978-5CF9-4EA6-A197-1CD7FA5B7408}</Project>
+      <Project>{9375C6B7-9FA0-4162-B911-D894FD2E3EE2}</Project>
       <Name>CarouselGallery</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\rei_01.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\rei_02.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\rei_03.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\rei_04.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\gallery_bar_chart.png" />
@@ -188,8 +181,5 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\insta_04.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\disney_logo.png" />
   </ItemGroup>
 </Project>

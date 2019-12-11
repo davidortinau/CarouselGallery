@@ -25,6 +25,8 @@
                                     Description="Glenn takes Dan and Dave for a ride!"/>
                     <model:InstaPic ImageSource="insta_01.png"
                                     Description="Arrived at the Antwerpen-Berchem station."/>
+                    <model:InstaPic ImageSource="https://cataas.com/cat/gif?type=sq"
+                                    Description="Cats!"/>
                     <model:InstaPic ImageSource="insta_02.png"
                                     Description="Streets of Antwerp."/>
                     <model:InstaPic ImageSource="insta_03.png"
@@ -35,7 +37,7 @@
             </CarouselView.ItemsSource>
             <CarouselView.ItemTemplate>
                 <DataTemplate>
-                    <Image Source="{Binding ImageSource}"/>
+                    <Image Source="{Binding ImageSource}" IsAnimationPlaying="True"/>
                 </DataTemplate>
             </CarouselView.ItemTemplate>
             <CarouselView.ItemsLayout>

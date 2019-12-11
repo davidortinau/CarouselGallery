@@ -27,7 +27,13 @@
                         Position="1"
                           PeekAreaInsets="50" BackgroundColor="black"
                           HeightRequest="200">
-                
+                <CarouselView.ItemsLayout>
+                    <LinearItemsLayout
+                        Orientation="Horizontal"
+                        ItemSpacing="0"
+                        SnapPointsAlignment="Center"
+                        SnapPointsType="MandatorySingle"/>
+                </CarouselView.ItemsLayout>
                 <CarouselView.ItemsSource>
                     <x:Array Type="{x:Type vm:DisneyItemViewModel}">
                         <vm:DisneyItemViewModel ImageSource="h01.jpg"/>
@@ -80,6 +86,8 @@
                 </CarouselView.ItemTemplate>
             </CarouselView>
 
+            <Image Source="https://cataas.com/cat/gif?type=sq"
+                   />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
