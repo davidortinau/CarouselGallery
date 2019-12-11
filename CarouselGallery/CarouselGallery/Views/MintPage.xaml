@@ -31,7 +31,7 @@
             </CarouselView.ItemsSource>
             <CarouselView.ItemTemplate>
                 <DataTemplate>
-                    <ScrollView>
+                    <ScrollView VerticalScrollBarVisibility="Never">
                         <ContentView Content="{Binding .}"/>
                     </ScrollView>
                 </DataTemplate>
@@ -40,7 +40,7 @@
                 <LinearItemsLayout
                     Orientation="Horizontal"
                     SnapPointsAlignment="Center"
-                    SnapPointsType="Mandatory"
+                    SnapPointsType="MandatorySingle"
                     ItemSpacing="15"/>
             </CarouselView.ItemsLayout>
         </CarouselView>

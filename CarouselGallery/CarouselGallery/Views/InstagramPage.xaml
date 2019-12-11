@@ -42,7 +42,7 @@
                 <LinearItemsLayout
                     Orientation="Horizontal"
                     SnapPointsAlignment="Start"
-                    SnapPointsType="Mandatory"
+                    SnapPointsType="MandatorySingle"
                     ItemSpacing="0"/>
             </CarouselView.ItemsLayout>
         </CarouselView>

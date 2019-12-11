@@ -18,7 +18,7 @@
                 <LinearItemsLayout
                     Orientation="Vertical"
                     SnapPointsAlignment="Start"
-                    SnapPointsType="Mandatory"/>
+                    SnapPointsType="MandatorySingle"/>
             </CarouselView.ItemsLayout>
             <CarouselView.ItemsSource>
                 <x:Array Type="{x:Type ContentView}">

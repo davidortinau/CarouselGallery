@@ -2875,8 +2875,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.behavior_overlapTop = global::CarouselGallery.Droid.Resource.Attribute.behavior_overlapTop;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.behavior_peekHeight = global::CarouselGallery.Droid.Resource.Attribute.behavior_peekHeight;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.behavior_skipCollapsed = global::CarouselGallery.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::Xamarin.Forms.Material.Android.Resource.Attribute.borderlessButtonStyle = global::CarouselGallery.Droid.Resource.Attribute.borderlessButtonStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.borderWidth = global::CarouselGallery.Droid.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Attribute.borderlessButtonStyle = global::CarouselGallery.Droid.Resource.Attribute.borderlessButtonStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.bottomAppBarStyle = global::CarouselGallery.Droid.Resource.Attribute.bottomAppBarStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.bottomNavigationStyle = global::CarouselGallery.Droid.Resource.Attribute.bottomNavigationStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.bottomSheetDialogTheme = global::CarouselGallery.Droid.Resource.Attribute.bottomSheetDialogTheme;
@@ -2942,9 +2942,9 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.closeIconVisible = global::CarouselGallery.Droid.Resource.Attribute.closeIconVisible;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.closeItemLayout = global::CarouselGallery.Droid.Resource.Attribute.closeItemLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.collapseContentDescription = global::CarouselGallery.Droid.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Material.Android.Resource.Attribute.collapseIcon = global::CarouselGallery.Droid.Resource.Attribute.collapseIcon;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.collapsedTitleGravity = global::CarouselGallery.Droid.Resource.Attribute.collapsedTitleGravity;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.collapsedTitleTextAppearance = global::CarouselGallery.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xamarin.Forms.Material.Android.Resource.Attribute.collapseIcon = global::CarouselGallery.Droid.Resource.Attribute.collapseIcon;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.color = global::CarouselGallery.Droid.Resource.Attribute.color;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.colorAccent = global::CarouselGallery.Droid.Resource.Attribute.colorAccent;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.colorBackgroundFloating = global::CarouselGallery.Droid.Resource.Attribute.colorBackgroundFloating;
@@ -2990,8 +2990,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.dividerVertical = global::CarouselGallery.Droid.Resource.Attribute.dividerVertical;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.drawableSize = global::CarouselGallery.Droid.Resource.Attribute.drawableSize;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.drawerArrowStyle = global::CarouselGallery.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Xamarin.Forms.Material.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.dropDownListViewStyle = global::CarouselGallery.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Material.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.editTextBackground = global::CarouselGallery.Droid.Resource.Attribute.editTextBackground;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.editTextColor = global::CarouselGallery.Droid.Resource.Attribute.editTextColor;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.editTextStyle = global::CarouselGallery.Droid.Resource.Attribute.editTextStyle;
@@ -3053,12 +3053,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.icon = global::CarouselGallery.Droid.Resource.Attribute.icon;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconEndPadding = global::CarouselGallery.Droid.Resource.Attribute.iconEndPadding;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconGravity = global::CarouselGallery.Droid.Resource.Attribute.iconGravity;
-			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconifiedByDefault = global::CarouselGallery.Droid.Resource.Attribute.iconifiedByDefault;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconPadding = global::CarouselGallery.Droid.Resource.Attribute.iconPadding;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconSize = global::CarouselGallery.Droid.Resource.Attribute.iconSize;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconStartPadding = global::CarouselGallery.Droid.Resource.Attribute.iconStartPadding;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconTint = global::CarouselGallery.Droid.Resource.Attribute.iconTint;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconTintMode = global::CarouselGallery.Droid.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Material.Android.Resource.Attribute.iconifiedByDefault = global::CarouselGallery.Droid.Resource.Attribute.iconifiedByDefault;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.imageButtonStyle = global::CarouselGallery.Droid.Resource.Attribute.imageButtonStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.indeterminateProgressStyle = global::CarouselGallery.Droid.Resource.Attribute.indeterminateProgressStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.initialActivityCount = global::CarouselGallery.Droid.Resource.Attribute.initialActivityCount;
@@ -3267,9 +3267,9 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMargin = global::CarouselGallery.Droid.Resource.Attribute.titleMargin;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMarginBottom = global::CarouselGallery.Droid.Resource.Attribute.titleMarginBottom;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMarginEnd = global::CarouselGallery.Droid.Resource.Attribute.titleMarginEnd;
-			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMargins = global::CarouselGallery.Droid.Resource.Attribute.titleMargins;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMarginStart = global::CarouselGallery.Droid.Resource.Attribute.titleMarginStart;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMarginTop = global::CarouselGallery.Droid.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleMargins = global::CarouselGallery.Droid.Resource.Attribute.titleMargins;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleTextAppearance = global::CarouselGallery.Droid.Resource.Attribute.titleTextAppearance;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleTextColor = global::CarouselGallery.Droid.Resource.Attribute.titleTextColor;
 			global::Xamarin.Forms.Material.Android.Resource.Attribute.titleTextStyle = global::CarouselGallery.Droid.Resource.Attribute.titleTextStyle;
@@ -3398,11 +3398,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::CarouselGallery.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::CarouselGallery.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_tabs_ripple_color = global::CarouselGallery.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::CarouselGallery.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_textinput_disabled_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_disabled_color;
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
 			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
-			global::Xamarin.Forms.Material.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::CarouselGallery.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
 			global::Xamarin.Forms.Material.Android.Resource.Color.notification_action_color_filter = global::CarouselGallery.Droid.Resource.Color.notification_action_color_filter;
 			global::Xamarin.Forms.Material.Android.Resource.Color.notification_icon_bg_color = global::CarouselGallery.Droid.Resource.Color.notification_icon_bg_color;
 			global::Xamarin.Forms.Material.Android.Resource.Color.notification_material_background_media_default_color = global::CarouselGallery.Droid.Resource.Color.notification_material_background_media_default_color;
@@ -3719,11 +3719,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_tab_indicator_material = global::CarouselGallery.Droid.Resource.Drawable.abc_tab_indicator_material;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_search_material = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_material;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_text_cursor_material = global::CarouselGallery.Droid.Resource.Drawable.abc_text_cursor_material;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
@@ -3731,6 +3726,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_textfield_search_material = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_material;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.abc_vector_test = global::CarouselGallery.Droid.Resource.Drawable.abc_vector_test;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.avd_hide_password = global::CarouselGallery.Droid.Resource.Drawable.avd_hide_password;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.avd_show_password = global::CarouselGallery.Droid.Resource.Drawable.avd_show_password;
@@ -3762,8 +3762,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::CarouselGallery.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.tooltip_frame_dark = global::CarouselGallery.Droid.Resource.Drawable.tooltip_frame_dark;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.tooltip_frame_light = global::CarouselGallery.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Material.Android.Resource.Id.ALT = global::CarouselGallery.Droid.Resource.Id.ALT;
+			global::Xamarin.Forms.Material.Android.Resource.Id.CTRL = global::CarouselGallery.Droid.Resource.Id.CTRL;
+			global::Xamarin.Forms.Material.Android.Resource.Id.FUNCTION = global::CarouselGallery.Droid.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Material.Android.Resource.Id.META = global::CarouselGallery.Droid.Resource.Id.META;
+			global::Xamarin.Forms.Material.Android.Resource.Id.SHIFT = global::CarouselGallery.Droid.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Material.Android.Resource.Id.SYM = global::CarouselGallery.Droid.Resource.Id.SYM;
 			global::Xamarin.Forms.Material.Android.Resource.Id.action0 = global::CarouselGallery.Droid.Resource.Id.action0;
-			global::Xamarin.Forms.Material.Android.Resource.Id.actions = global::CarouselGallery.Droid.Resource.Id.actions;
 			global::Xamarin.Forms.Material.Android.Resource.Id.action_bar = global::CarouselGallery.Droid.Resource.Id.action_bar;
 			global::Xamarin.Forms.Material.Android.Resource.Id.action_bar_activity_content = global::CarouselGallery.Droid.Resource.Id.action_bar_activity_content;
 			global::Xamarin.Forms.Material.Android.Resource.Id.action_bar_container = global::CarouselGallery.Droid.Resource.Id.action_bar_container;
@@ -3781,11 +3786,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.action_mode_bar_stub = global::CarouselGallery.Droid.Resource.Id.action_mode_bar_stub;
 			global::Xamarin.Forms.Material.Android.Resource.Id.action_mode_close_button = global::CarouselGallery.Droid.Resource.Id.action_mode_close_button;
 			global::Xamarin.Forms.Material.Android.Resource.Id.action_text = global::CarouselGallery.Droid.Resource.Id.action_text;
+			global::Xamarin.Forms.Material.Android.Resource.Id.actions = global::CarouselGallery.Droid.Resource.Id.actions;
 			global::Xamarin.Forms.Material.Android.Resource.Id.activity_chooser_view_content = global::CarouselGallery.Droid.Resource.Id.activity_chooser_view_content;
 			global::Xamarin.Forms.Material.Android.Resource.Id.add = global::CarouselGallery.Droid.Resource.Id.add;
 			global::Xamarin.Forms.Material.Android.Resource.Id.alertTitle = global::CarouselGallery.Droid.Resource.Id.alertTitle;
 			global::Xamarin.Forms.Material.Android.Resource.Id.all = global::CarouselGallery.Droid.Resource.Id.all;
-			global::Xamarin.Forms.Material.Android.Resource.Id.ALT = global::CarouselGallery.Droid.Resource.Id.ALT;
 			global::Xamarin.Forms.Material.Android.Resource.Id.always = global::CarouselGallery.Droid.Resource.Id.always;
 			global::Xamarin.Forms.Material.Android.Resource.Id.async = global::CarouselGallery.Droid.Resource.Id.async;
 			global::Xamarin.Forms.Material.Android.Resource.Id.auto = global::CarouselGallery.Droid.Resource.Id.auto;
@@ -3808,7 +3813,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.content = global::CarouselGallery.Droid.Resource.Id.content;
 			global::Xamarin.Forms.Material.Android.Resource.Id.contentPanel = global::CarouselGallery.Droid.Resource.Id.contentPanel;
 			global::Xamarin.Forms.Material.Android.Resource.Id.coordinator = global::CarouselGallery.Droid.Resource.Id.coordinator;
-			global::Xamarin.Forms.Material.Android.Resource.Id.CTRL = global::CarouselGallery.Droid.Resource.Id.CTRL;
 			global::Xamarin.Forms.Material.Android.Resource.Id.custom = global::CarouselGallery.Droid.Resource.Id.custom;
 			global::Xamarin.Forms.Material.Android.Resource.Id.customPanel = global::CarouselGallery.Droid.Resource.Id.customPanel;
 			global::Xamarin.Forms.Material.Android.Resource.Id.decor_content_parent = global::CarouselGallery.Droid.Resource.Id.decor_content_parent;
@@ -3825,17 +3829,16 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.enterAlways = global::CarouselGallery.Droid.Resource.Id.enterAlways;
 			global::Xamarin.Forms.Material.Android.Resource.Id.enterAlwaysCollapsed = global::CarouselGallery.Droid.Resource.Id.enterAlwaysCollapsed;
 			global::Xamarin.Forms.Material.Android.Resource.Id.exitUntilCollapsed = global::CarouselGallery.Droid.Resource.Id.exitUntilCollapsed;
-			global::Xamarin.Forms.Material.Android.Resource.Id.expanded_menu = global::CarouselGallery.Droid.Resource.Id.expanded_menu;
 			global::Xamarin.Forms.Material.Android.Resource.Id.expand_activities_button = global::CarouselGallery.Droid.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Material.Android.Resource.Id.expanded_menu = global::CarouselGallery.Droid.Resource.Id.expanded_menu;
 			global::Xamarin.Forms.Material.Android.Resource.Id.fill = global::CarouselGallery.Droid.Resource.Id.fill;
-			global::Xamarin.Forms.Material.Android.Resource.Id.filled = global::CarouselGallery.Droid.Resource.Id.filled;
 			global::Xamarin.Forms.Material.Android.Resource.Id.fill_horizontal = global::CarouselGallery.Droid.Resource.Id.fill_horizontal;
 			global::Xamarin.Forms.Material.Android.Resource.Id.fill_vertical = global::CarouselGallery.Droid.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Material.Android.Resource.Id.filled = global::CarouselGallery.Droid.Resource.Id.filled;
 			global::Xamarin.Forms.Material.Android.Resource.Id.@fixed = global::CarouselGallery.Droid.Resource.Id.@fixed;
 			global::Xamarin.Forms.Material.Android.Resource.Id.flyoutcontent_appbar = global::CarouselGallery.Droid.Resource.Id.flyoutcontent_appbar;
 			global::Xamarin.Forms.Material.Android.Resource.Id.flyoutcontent_recycler = global::CarouselGallery.Droid.Resource.Id.flyoutcontent_recycler;
 			global::Xamarin.Forms.Material.Android.Resource.Id.forever = global::CarouselGallery.Droid.Resource.Id.forever;
-			global::Xamarin.Forms.Material.Android.Resource.Id.FUNCTION = global::CarouselGallery.Droid.Resource.Id.FUNCTION;
 			global::Xamarin.Forms.Material.Android.Resource.Id.ghost_view = global::CarouselGallery.Droid.Resource.Id.ghost_view;
 			global::Xamarin.Forms.Material.Android.Resource.Id.group_divider = global::CarouselGallery.Droid.Resource.Id.group_divider;
 			global::Xamarin.Forms.Material.Android.Resource.Id.home = global::CarouselGallery.Droid.Resource.Id.home;
@@ -3862,7 +3865,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.materialformsedittext = global::CarouselGallery.Droid.Resource.Id.materialformsedittext;
 			global::Xamarin.Forms.Material.Android.Resource.Id.media_actions = global::CarouselGallery.Droid.Resource.Id.media_actions;
 			global::Xamarin.Forms.Material.Android.Resource.Id.message = global::CarouselGallery.Droid.Resource.Id.message;
-			global::Xamarin.Forms.Material.Android.Resource.Id.META = global::CarouselGallery.Droid.Resource.Id.META;
 			global::Xamarin.Forms.Material.Android.Resource.Id.middle = global::CarouselGallery.Droid.Resource.Id.middle;
 			global::Xamarin.Forms.Material.Android.Resource.Id.mini = global::CarouselGallery.Droid.Resource.Id.mini;
 			global::Xamarin.Forms.Material.Android.Resource.Id.mtrl_child_content_container = global::CarouselGallery.Droid.Resource.Id.mtrl_child_content_container;
@@ -3891,10 +3893,10 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.save_scale_type = global::CarouselGallery.Droid.Resource.Id.save_scale_type;
 			global::Xamarin.Forms.Material.Android.Resource.Id.screen = global::CarouselGallery.Droid.Resource.Id.screen;
 			global::Xamarin.Forms.Material.Android.Resource.Id.scroll = global::CarouselGallery.Droid.Resource.Id.scroll;
-			global::Xamarin.Forms.Material.Android.Resource.Id.scrollable = global::CarouselGallery.Droid.Resource.Id.scrollable;
 			global::Xamarin.Forms.Material.Android.Resource.Id.scrollIndicatorDown = global::CarouselGallery.Droid.Resource.Id.scrollIndicatorDown;
 			global::Xamarin.Forms.Material.Android.Resource.Id.scrollIndicatorUp = global::CarouselGallery.Droid.Resource.Id.scrollIndicatorUp;
 			global::Xamarin.Forms.Material.Android.Resource.Id.scrollView = global::CarouselGallery.Droid.Resource.Id.scrollView;
+			global::Xamarin.Forms.Material.Android.Resource.Id.scrollable = global::CarouselGallery.Droid.Resource.Id.scrollable;
 			global::Xamarin.Forms.Material.Android.Resource.Id.search_badge = global::CarouselGallery.Droid.Resource.Id.search_badge;
 			global::Xamarin.Forms.Material.Android.Resource.Id.search_bar = global::CarouselGallery.Droid.Resource.Id.search_bar;
 			global::Xamarin.Forms.Material.Android.Resource.Id.search_button = global::CarouselGallery.Droid.Resource.Id.search_button;
@@ -3905,11 +3907,10 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.search_plate = global::CarouselGallery.Droid.Resource.Id.search_plate;
 			global::Xamarin.Forms.Material.Android.Resource.Id.search_src_text = global::CarouselGallery.Droid.Resource.Id.search_src_text;
 			global::Xamarin.Forms.Material.Android.Resource.Id.search_voice_btn = global::CarouselGallery.Droid.Resource.Id.search_voice_btn;
-			global::Xamarin.Forms.Material.Android.Resource.Id.selected = global::CarouselGallery.Droid.Resource.Id.selected;
 			global::Xamarin.Forms.Material.Android.Resource.Id.select_dialog_listview = global::CarouselGallery.Droid.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Material.Android.Resource.Id.selected = global::CarouselGallery.Droid.Resource.Id.selected;
 			global::Xamarin.Forms.Material.Android.Resource.Id.shellcontent_appbar = global::CarouselGallery.Droid.Resource.Id.shellcontent_appbar;
 			global::Xamarin.Forms.Material.Android.Resource.Id.shellcontent_toolbar = global::CarouselGallery.Droid.Resource.Id.shellcontent_toolbar;
-			global::Xamarin.Forms.Material.Android.Resource.Id.SHIFT = global::CarouselGallery.Droid.Resource.Id.SHIFT;
 			global::Xamarin.Forms.Material.Android.Resource.Id.shortcut = global::CarouselGallery.Droid.Resource.Id.shortcut;
 			global::Xamarin.Forms.Material.Android.Resource.Id.showCustom = global::CarouselGallery.Droid.Resource.Id.showCustom;
 			global::Xamarin.Forms.Material.Android.Resource.Id.showHome = global::CarouselGallery.Droid.Resource.Id.showHome;
@@ -3929,20 +3930,19 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Id.stretch = global::CarouselGallery.Droid.Resource.Id.stretch;
 			global::Xamarin.Forms.Material.Android.Resource.Id.submenuarrow = global::CarouselGallery.Droid.Resource.Id.submenuarrow;
 			global::Xamarin.Forms.Material.Android.Resource.Id.submit_area = global::CarouselGallery.Droid.Resource.Id.submit_area;
-			global::Xamarin.Forms.Material.Android.Resource.Id.SYM = global::CarouselGallery.Droid.Resource.Id.SYM;
 			global::Xamarin.Forms.Material.Android.Resource.Id.tabMode = global::CarouselGallery.Droid.Resource.Id.tabMode;
 			global::Xamarin.Forms.Material.Android.Resource.Id.tag_transition_group = global::CarouselGallery.Droid.Resource.Id.tag_transition_group;
 			global::Xamarin.Forms.Material.Android.Resource.Id.tag_unhandled_key_event_manager = global::CarouselGallery.Droid.Resource.Id.tag_unhandled_key_event_manager;
 			global::Xamarin.Forms.Material.Android.Resource.Id.tag_unhandled_key_listeners = global::CarouselGallery.Droid.Resource.Id.tag_unhandled_key_listeners;
 			global::Xamarin.Forms.Material.Android.Resource.Id.text = global::CarouselGallery.Droid.Resource.Id.text;
 			global::Xamarin.Forms.Material.Android.Resource.Id.text2 = global::CarouselGallery.Droid.Resource.Id.text2;
-			global::Xamarin.Forms.Material.Android.Resource.Id.textinput_counter = global::CarouselGallery.Droid.Resource.Id.textinput_counter;
-			global::Xamarin.Forms.Material.Android.Resource.Id.textinput_error = global::CarouselGallery.Droid.Resource.Id.textinput_error;
-			global::Xamarin.Forms.Material.Android.Resource.Id.textinput_helper_text = global::CarouselGallery.Droid.Resource.Id.textinput_helper_text;
 			global::Xamarin.Forms.Material.Android.Resource.Id.textSpacerNoButtons = global::CarouselGallery.Droid.Resource.Id.textSpacerNoButtons;
 			global::Xamarin.Forms.Material.Android.Resource.Id.textSpacerNoTitle = global::CarouselGallery.Droid.Resource.Id.textSpacerNoTitle;
 			global::Xamarin.Forms.Material.Android.Resource.Id.textStart = global::CarouselGallery.Droid.Resource.Id.textStart;
 			global::Xamarin.Forms.Material.Android.Resource.Id.text_input_password_toggle = global::CarouselGallery.Droid.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Material.Android.Resource.Id.textinput_counter = global::CarouselGallery.Droid.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Material.Android.Resource.Id.textinput_error = global::CarouselGallery.Droid.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Material.Android.Resource.Id.textinput_helper_text = global::CarouselGallery.Droid.Resource.Id.textinput_helper_text;
 			global::Xamarin.Forms.Material.Android.Resource.Id.time = global::CarouselGallery.Droid.Resource.Id.time;
 			global::Xamarin.Forms.Material.Android.Resource.Id.title = global::CarouselGallery.Droid.Resource.Id.title;
 			global::Xamarin.Forms.Material.Android.Resource.Id.titleDividerNoCustom = global::CarouselGallery.Droid.Resource.Id.titleDividerNoCustom;
@@ -4055,8 +4055,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_action_bar_up_description = global::CarouselGallery.Droid.Resource.String.abc_action_bar_up_description;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_action_menu_overflow_description = global::CarouselGallery.Droid.Resource.String.abc_action_menu_overflow_description;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_action_mode_done = global::CarouselGallery.Droid.Resource.String.abc_action_mode_done;
-			global::Xamarin.Forms.Material.Android.Resource.String.abc_activitychooserview_choose_application = global::CarouselGallery.Droid.Resource.String.abc_activitychooserview_choose_application;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_activity_chooser_view_see_all = global::CarouselGallery.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Material.Android.Resource.String.abc_activitychooserview_choose_application = global::CarouselGallery.Droid.Resource.String.abc_activitychooserview_choose_application;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_capital_off = global::CarouselGallery.Droid.Resource.String.abc_capital_off;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_capital_on = global::CarouselGallery.Droid.Resource.String.abc_capital_on;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_font_family_body_1_material = global::CarouselGallery.Droid.Resource.String.abc_font_family_body_1_material;
@@ -4081,12 +4081,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_menu_space_shortcut_label = global::CarouselGallery.Droid.Resource.String.abc_menu_space_shortcut_label;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_menu_sym_shortcut_label = global::CarouselGallery.Droid.Resource.String.abc_menu_sym_shortcut_label;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_prepend_shortcut_label = global::CarouselGallery.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Material.Android.Resource.String.abc_search_hint = global::CarouselGallery.Droid.Resource.String.abc_search_hint;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_searchview_description_clear = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_clear;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_searchview_description_query = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_query;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_searchview_description_search = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_search;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_searchview_description_submit = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_submit;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_searchview_description_voice = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_voice;
-			global::Xamarin.Forms.Material.Android.Resource.String.abc_search_hint = global::CarouselGallery.Droid.Resource.String.abc_search_hint;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_shareactionprovider_share_with = global::CarouselGallery.Droid.Resource.String.abc_shareactionprovider_share_with;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_shareactionprovider_share_with_application = global::CarouselGallery.Droid.Resource.String.abc_shareactionprovider_share_with_application;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_toolbar_collapse_description = global::CarouselGallery.Droid.Resource.String.abc_toolbar_collapse_description;
@@ -4117,8 +4117,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CarouselGallery.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::CarouselGallery.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_CardView = global::CarouselGallery.Droid.Resource.Style.Base_CardView;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_TextAppearance_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
@@ -4167,6 +4167,37 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
@@ -4176,39 +4207,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
@@ -4216,11 +4214,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V21_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V22_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V22_Theme_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V23_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V23_Theme_AppCompat;
@@ -4230,11 +4230,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::CarouselGallery.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V28_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V28_Theme_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CarouselGallery.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CarouselGallery.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::CarouselGallery.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
@@ -4250,13 +4250,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_Button = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
@@ -4302,7 +4302,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.CardView = global::CarouselGallery.Droid.Resource.Style.CardView;
 			global::Xamarin.Forms.Material.Android.Resource.Style.CardView_Dark = global::CarouselGallery.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Material.Android.Resource.Style.CardView_Light = global::CarouselGallery.Droid.Resource.Style.CardView_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.collectionViewStyle = global::CarouselGallery.Droid.Resource.Style.collectionViewStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Style.NestedScrollBarStyle = global::CarouselGallery.Droid.Resource.Style.NestedScrollBarStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Platform_AppCompat = global::CarouselGallery.Droid.Resource.Style.Platform_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Platform_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Platform_AppCompat_Light;
@@ -4327,12 +4326,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
-			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Material.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CarouselGallery.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
 			global::Xamarin.Forms.Material.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CarouselGallery.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
 			global::Xamarin.Forms.Material.Android.Resource.Style.TextAppearance_AppCompat = global::CarouselGallery.Droid.Resource.Style.TextAppearance_AppCompat;
@@ -4419,6 +4418,54 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CarouselGallery.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Material.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CarouselGallery.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Material.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CarouselGallery.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design = global::CarouselGallery.Droid.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_Light = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
 			global::Xamarin.Forms.Material.Android.Resource.Style.ThemeOverlay_AppCompat = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Material.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
@@ -4438,54 +4485,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
 			global::Xamarin.Forms.Material.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
 			global::Xamarin.Forms.Material.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design = global::CarouselGallery.Droid.Resource.Style.Theme_Design;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_Light = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_Design_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ActionBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActionBar;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
@@ -4498,13 +4497,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_Button = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_Button_Small = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
@@ -4586,11 +4585,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_CardView = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_CardView;
-			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
 			global::Xamarin.Forms.Material.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
@@ -4616,9 +4615,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Style.XamarinFormsMaterialProgressBarHorizontal = global::CarouselGallery.Droid.Resource.Style.XamarinFormsMaterialProgressBarHorizontal;
 			global::Xamarin.Forms.Material.Android.Resource.Style.XamarinFormsMaterialSlider = global::CarouselGallery.Droid.Resource.Style.XamarinFormsMaterialSlider;
 			global::Xamarin.Forms.Material.Android.Resource.Style.XamarinFormsMaterialTheme = global::CarouselGallery.Droid.Resource.Style.XamarinFormsMaterialTheme;
+			global::Xamarin.Forms.Material.Android.Resource.Style.collectionViewStyle = global::CarouselGallery.Droid.Resource.Style.collectionViewStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar = global::CarouselGallery.Droid.Resource.Styleable.ActionBar;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBarLayout = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar_background = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_background;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar_backgroundSplit = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_backgroundSplit;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar_backgroundStacked = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_backgroundStacked;
@@ -4648,6 +4646,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar_title = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_title;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBar_titleTextStyle = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBarLayout = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionMenuItemView = global::CarouselGallery.Droid.Resource.Styleable.ActionMenuItemView;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CarouselGallery.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ActionMenuView = global::CarouselGallery.Droid.Resource.Styleable.ActionMenuView;
@@ -4686,20 +4686,20 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::CarouselGallery.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::CarouselGallery.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_android_background = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_android_background;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_elevation = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_elevation;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_expanded = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_Layout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatImageView = global::CarouselGallery.Droid.Resource.Styleable.AppCompatImageView;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatImageView_android_src = global::CarouselGallery.Droid.Resource.Styleable.AppCompatImageView_android_src;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::CarouselGallery.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
@@ -4795,8 +4795,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
@@ -4892,13 +4892,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CardView_contentPaddingRight = global::CarouselGallery.Droid.Resource.Styleable.CardView_contentPaddingRight;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CardView_contentPaddingTop = global::CarouselGallery.Droid.Resource.Styleable.CardView_contentPaddingTop;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip = global::CarouselGallery.Droid.Resource.Styleable.Chip;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_checkedChip = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_checkedChip;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_chipSpacing = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacing;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_singleLine = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleLine;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_singleSelection = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleSelection;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip_android_checkable = global::CarouselGallery.Droid.Resource.Styleable.Chip_android_checkable;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip_android_ellipsize = global::CarouselGallery.Droid.Resource.Styleable.Chip_android_ellipsize;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip_android_maxWidth = global::CarouselGallery.Droid.Resource.Styleable.Chip_android_maxWidth;
@@ -4933,6 +4926,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip_showMotionSpec = global::CarouselGallery.Droid.Resource.Styleable.Chip_showMotionSpec;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip_textEndPadding = global::CarouselGallery.Droid.Resource.Styleable.Chip_textEndPadding;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Chip_textStartPadding = global::CarouselGallery.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_checkedChip = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_chipSpacing = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_singleLine = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.ChipGroup_singleSelection = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleSelection;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
@@ -4944,15 +4944,15 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ColorStateListItem = global::CarouselGallery.Droid.Resource.Styleable.ColorStateListItem;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ColorStateListItem_alpha = global::CarouselGallery.Droid.Resource.Styleable.ColorStateListItem_alpha;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::CarouselGallery.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
@@ -4963,6 +4963,7 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::CarouselGallery.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_keylines = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
@@ -4971,7 +4972,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.DesignTheme = global::CarouselGallery.Droid.Resource.Styleable.DesignTheme;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::CarouselGallery.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::CarouselGallery.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
@@ -4987,8 +4987,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_elevation = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_elevation;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
@@ -5000,10 +4998,18 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FlowLayout = global::CarouselGallery.Droid.Resource.Styleable.FlowLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FlowLayout_itemSpacing = global::CarouselGallery.Droid.Resource.Styleable.FlowLayout_itemSpacing;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FlowLayout_lineSpacing = global::CarouselGallery.Droid.Resource.Styleable.FlowLayout_lineSpacing;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily = global::CarouselGallery.Droid.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamilyFont = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamilyFont_android_font = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_android_font;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
@@ -5015,20 +5021,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ForegroundLinearLayout = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor = global::CarouselGallery.Droid.Resource.Styleable.GradientColor;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColorItem = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColorItem_android_color = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_color;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColorItem_android_offset = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_offset;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor_android_centerColor = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_centerColor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor_android_centerX = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_centerX;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor_android_centerY = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_centerY;
@@ -5041,6 +5038,9 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor_android_startY = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_startY;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor_android_tileMode = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColor_android_type = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColorItem = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColorItem_android_color = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.GradientColorItem_android_offset = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_offset;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
@@ -5049,13 +5049,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_divider = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_divider;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ListPopupWindow = global::CarouselGallery.Droid.Resource.Styleable.ListPopupWindow;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CarouselGallery.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CarouselGallery.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
@@ -5167,11 +5167,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.NavigationView_itemTextColor = global::CarouselGallery.Droid.Resource.Styleable.NavigationView_itemTextColor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.NavigationView_menu = global::CarouselGallery.Droid.Resource.Styleable.NavigationView_menu;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindow = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindowBackgroundState = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindowBackgroundState = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.RecycleListView = global::CarouselGallery.Droid.Resource.Styleable.RecycleListView;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CarouselGallery.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CarouselGallery.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
@@ -5210,12 +5210,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::CarouselGallery.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SearchView_voiceIcon = global::CarouselGallery.Droid.Resource.Styleable.SearchView_voiceIcon;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Snackbar = global::CarouselGallery.Droid.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.Snackbar_snackbarStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SnackbarLayout = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SnackbarLayout_elevation = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout_elevation;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.Snackbar_snackbarStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarStyle;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Spinner = global::CarouselGallery.Droid.Resource.Styleable.Spinner;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::CarouselGallery.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Spinner_android_entries = global::CarouselGallery.Droid.Resource.Styleable.Spinner_android_entries;
@@ -5223,14 +5223,14 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Spinner_android_prompt = global::CarouselGallery.Droid.Resource.Styleable.Spinner_android_prompt;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Spinner_popupTheme = global::CarouselGallery.Droid.Resource.Styleable.Spinner_popupTheme;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawableItem = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable_android_dither = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_dither;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawable_android_visible = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawableItem = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SwitchCompat = global::CarouselGallery.Droid.Resource.Styleable.SwitchCompat;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SwitchCompat_android_textOff = global::CarouselGallery.Droid.Resource.Styleable.SwitchCompat_android_textOff;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.SwitchCompat_android_textOn = global::CarouselGallery.Droid.Resource.Styleable.SwitchCompat_android_textOn;
@@ -5348,12 +5348,17 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMargin = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMargin;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMargins = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMargins;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMarginStart = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginStart;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMarginTop = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleMargins = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMargins;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.Toolbar_titleTextColor = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleTextColor;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.View = global::CarouselGallery.Droid.Resource.Styleable.View;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_android_focusable = global::CarouselGallery.Droid.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_android_theme = global::CarouselGallery.Droid.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_paddingEnd = global::CarouselGallery.Droid.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_paddingStart = global::CarouselGallery.Droid.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_theme = global::CarouselGallery.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ViewBackgroundHelper = global::CarouselGallery.Droid.Resource.Styleable.ViewBackgroundHelper;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::CarouselGallery.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CarouselGallery.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
@@ -5362,11 +5367,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ViewStubCompat_android_id = global::CarouselGallery.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CarouselGallery.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::Xamarin.Forms.Material.Android.Resource.Styleable.ViewStubCompat_android_layout = global::CarouselGallery.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_android_focusable = global::CarouselGallery.Droid.Resource.Styleable.View_android_focusable;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_android_theme = global::CarouselGallery.Droid.Resource.Styleable.View_android_theme;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_paddingEnd = global::CarouselGallery.Droid.Resource.Styleable.View_paddingEnd;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_paddingStart = global::CarouselGallery.Droid.Resource.Styleable.View_paddingStart;
-			global::Xamarin.Forms.Material.Android.Resource.Styleable.View_theme = global::CarouselGallery.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::CarouselGallery.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::CarouselGallery.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::CarouselGallery.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -5458,8 +5458,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::CarouselGallery.Droid.Resource.Attribute.behavior_overlapTop;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::CarouselGallery.Droid.Resource.Attribute.behavior_peekHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::CarouselGallery.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::CarouselGallery.Droid.Resource.Attribute.borderlessButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::CarouselGallery.Droid.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::CarouselGallery.Droid.Resource.Attribute.borderlessButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomAppBarStyle = global::CarouselGallery.Droid.Resource.Attribute.bottomAppBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomNavigationStyle = global::CarouselGallery.Droid.Resource.Attribute.bottomNavigationStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::CarouselGallery.Droid.Resource.Attribute.bottomSheetDialogTheme;
@@ -5525,9 +5525,9 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconVisible = global::CarouselGallery.Droid.Resource.Attribute.closeIconVisible;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::CarouselGallery.Droid.Resource.Attribute.closeItemLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::CarouselGallery.Droid.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::CarouselGallery.Droid.Resource.Attribute.collapseIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::CarouselGallery.Droid.Resource.Attribute.collapsedTitleGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::CarouselGallery.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::CarouselGallery.Droid.Resource.Attribute.collapseIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::CarouselGallery.Droid.Resource.Attribute.color;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::CarouselGallery.Droid.Resource.Attribute.colorAccent;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::CarouselGallery.Droid.Resource.Attribute.colorBackgroundFloating;
@@ -5573,8 +5573,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::CarouselGallery.Droid.Resource.Attribute.dividerVertical;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::CarouselGallery.Droid.Resource.Attribute.drawableSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::CarouselGallery.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::CarouselGallery.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::CarouselGallery.Droid.Resource.Attribute.editTextBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::CarouselGallery.Droid.Resource.Attribute.editTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::CarouselGallery.Droid.Resource.Attribute.editTextStyle;
@@ -5636,12 +5636,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::CarouselGallery.Droid.Resource.Attribute.icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconEndPadding = global::CarouselGallery.Droid.Resource.Attribute.iconEndPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconGravity = global::CarouselGallery.Droid.Resource.Attribute.iconGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::CarouselGallery.Droid.Resource.Attribute.iconifiedByDefault;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconPadding = global::CarouselGallery.Droid.Resource.Attribute.iconPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconSize = global::CarouselGallery.Droid.Resource.Attribute.iconSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconStartPadding = global::CarouselGallery.Droid.Resource.Attribute.iconStartPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::CarouselGallery.Droid.Resource.Attribute.iconTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::CarouselGallery.Droid.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::CarouselGallery.Droid.Resource.Attribute.iconifiedByDefault;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::CarouselGallery.Droid.Resource.Attribute.imageButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::CarouselGallery.Droid.Resource.Attribute.indeterminateProgressStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::CarouselGallery.Droid.Resource.Attribute.initialActivityCount;
@@ -5845,9 +5845,9 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::CarouselGallery.Droid.Resource.Attribute.titleMargin;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::CarouselGallery.Droid.Resource.Attribute.titleMarginBottom;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::CarouselGallery.Droid.Resource.Attribute.titleMarginEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::CarouselGallery.Droid.Resource.Attribute.titleMargins;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::CarouselGallery.Droid.Resource.Attribute.titleMarginStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::CarouselGallery.Droid.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::CarouselGallery.Droid.Resource.Attribute.titleMargins;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::CarouselGallery.Droid.Resource.Attribute.titleTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::CarouselGallery.Droid.Resource.Attribute.titleTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::CarouselGallery.Droid.Resource.Attribute.titleTextStyle;
@@ -5976,11 +5976,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::CarouselGallery.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::CarouselGallery.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_ripple_color = global::CarouselGallery.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::CarouselGallery.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_disabled_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_disabled_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::CarouselGallery.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::CarouselGallery.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::CarouselGallery.Droid.Resource.Color.notification_action_color_filter;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::CarouselGallery.Droid.Resource.Color.notification_icon_bg_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::CarouselGallery.Droid.Resource.Color.notification_material_background_media_default_color;
@@ -6296,11 +6296,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::CarouselGallery.Droid.Resource.Drawable.abc_tab_indicator_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::CarouselGallery.Droid.Resource.Drawable.abc_text_cursor_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
@@ -6308,6 +6303,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::CarouselGallery.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::CarouselGallery.Droid.Resource.Drawable.abc_textfield_search_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::CarouselGallery.Droid.Resource.Drawable.abc_vector_test;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::CarouselGallery.Droid.Resource.Drawable.avd_hide_password;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::CarouselGallery.Droid.Resource.Drawable.avd_show_password;
@@ -6337,8 +6337,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::CarouselGallery.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::CarouselGallery.Droid.Resource.Drawable.tooltip_frame_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::CarouselGallery.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::CarouselGallery.Droid.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::CarouselGallery.Droid.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::CarouselGallery.Droid.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::CarouselGallery.Droid.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::CarouselGallery.Droid.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::CarouselGallery.Droid.Resource.Id.SYM;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::CarouselGallery.Droid.Resource.Id.action0;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::CarouselGallery.Droid.Resource.Id.actions;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::CarouselGallery.Droid.Resource.Id.action_bar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::CarouselGallery.Droid.Resource.Id.action_bar_activity_content;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::CarouselGallery.Droid.Resource.Id.action_bar_container;
@@ -6356,11 +6361,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::CarouselGallery.Droid.Resource.Id.action_mode_bar_stub;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::CarouselGallery.Droid.Resource.Id.action_mode_close_button;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::CarouselGallery.Droid.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::CarouselGallery.Droid.Resource.Id.actions;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::CarouselGallery.Droid.Resource.Id.activity_chooser_view_content;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.add = global::CarouselGallery.Droid.Resource.Id.add;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::CarouselGallery.Droid.Resource.Id.alertTitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.all = global::CarouselGallery.Droid.Resource.Id.all;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::CarouselGallery.Droid.Resource.Id.ALT;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.always = global::CarouselGallery.Droid.Resource.Id.always;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.async = global::CarouselGallery.Droid.Resource.Id.async;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.auto = global::CarouselGallery.Droid.Resource.Id.auto;
@@ -6383,7 +6388,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.content = global::CarouselGallery.Droid.Resource.Id.content;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::CarouselGallery.Droid.Resource.Id.contentPanel;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::CarouselGallery.Droid.Resource.Id.coordinator;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::CarouselGallery.Droid.Resource.Id.CTRL;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::CarouselGallery.Droid.Resource.Id.custom;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::CarouselGallery.Droid.Resource.Id.customPanel;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::CarouselGallery.Droid.Resource.Id.decor_content_parent;
@@ -6400,17 +6404,16 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::CarouselGallery.Droid.Resource.Id.enterAlways;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::CarouselGallery.Droid.Resource.Id.enterAlwaysCollapsed;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::CarouselGallery.Droid.Resource.Id.exitUntilCollapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::CarouselGallery.Droid.Resource.Id.expanded_menu;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::CarouselGallery.Droid.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::CarouselGallery.Droid.Resource.Id.expanded_menu;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::CarouselGallery.Droid.Resource.Id.fill;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::CarouselGallery.Droid.Resource.Id.filled;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::CarouselGallery.Droid.Resource.Id.fill_horizontal;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::CarouselGallery.Droid.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::CarouselGallery.Droid.Resource.Id.filled;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::CarouselGallery.Droid.Resource.Id.@fixed;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::CarouselGallery.Droid.Resource.Id.flyoutcontent_appbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::CarouselGallery.Droid.Resource.Id.flyoutcontent_recycler;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::CarouselGallery.Droid.Resource.Id.forever;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::CarouselGallery.Droid.Resource.Id.FUNCTION;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::CarouselGallery.Droid.Resource.Id.ghost_view;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::CarouselGallery.Droid.Resource.Id.group_divider;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::CarouselGallery.Droid.Resource.Id.home;
@@ -6436,7 +6439,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::CarouselGallery.Droid.Resource.Id.masked;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::CarouselGallery.Droid.Resource.Id.media_actions;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::CarouselGallery.Droid.Resource.Id.message;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::CarouselGallery.Droid.Resource.Id.META;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::CarouselGallery.Droid.Resource.Id.middle;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::CarouselGallery.Droid.Resource.Id.mini;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_child_content_container = global::CarouselGallery.Droid.Resource.Id.mtrl_child_content_container;
@@ -6465,10 +6467,10 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.save_scale_type = global::CarouselGallery.Droid.Resource.Id.save_scale_type;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.screen = global::CarouselGallery.Droid.Resource.Id.screen;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::CarouselGallery.Droid.Resource.Id.scroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::CarouselGallery.Droid.Resource.Id.scrollable;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::CarouselGallery.Droid.Resource.Id.scrollIndicatorDown;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::CarouselGallery.Droid.Resource.Id.scrollIndicatorUp;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::CarouselGallery.Droid.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::CarouselGallery.Droid.Resource.Id.scrollable;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::CarouselGallery.Droid.Resource.Id.search_badge;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::CarouselGallery.Droid.Resource.Id.search_bar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::CarouselGallery.Droid.Resource.Id.search_button;
@@ -6479,11 +6481,10 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::CarouselGallery.Droid.Resource.Id.search_plate;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::CarouselGallery.Droid.Resource.Id.search_src_text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::CarouselGallery.Droid.Resource.Id.search_voice_btn;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::CarouselGallery.Droid.Resource.Id.selected;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::CarouselGallery.Droid.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::CarouselGallery.Droid.Resource.Id.selected;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::CarouselGallery.Droid.Resource.Id.shellcontent_appbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::CarouselGallery.Droid.Resource.Id.shellcontent_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::CarouselGallery.Droid.Resource.Id.SHIFT;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::CarouselGallery.Droid.Resource.Id.shortcut;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::CarouselGallery.Droid.Resource.Id.showCustom;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::CarouselGallery.Droid.Resource.Id.showHome;
@@ -6503,20 +6504,19 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.stretch = global::CarouselGallery.Droid.Resource.Id.stretch;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::CarouselGallery.Droid.Resource.Id.submenuarrow;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::CarouselGallery.Droid.Resource.Id.submit_area;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::CarouselGallery.Droid.Resource.Id.SYM;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::CarouselGallery.Droid.Resource.Id.tabMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::CarouselGallery.Droid.Resource.Id.tag_transition_group;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::CarouselGallery.Droid.Resource.Id.tag_unhandled_key_event_manager;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::CarouselGallery.Droid.Resource.Id.tag_unhandled_key_listeners;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::CarouselGallery.Droid.Resource.Id.text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::CarouselGallery.Droid.Resource.Id.text2;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::CarouselGallery.Droid.Resource.Id.textinput_counter;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::CarouselGallery.Droid.Resource.Id.textinput_error;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::CarouselGallery.Droid.Resource.Id.textinput_helper_text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::CarouselGallery.Droid.Resource.Id.textSpacerNoButtons;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::CarouselGallery.Droid.Resource.Id.textSpacerNoTitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textStart = global::CarouselGallery.Droid.Resource.Id.textStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::CarouselGallery.Droid.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::CarouselGallery.Droid.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::CarouselGallery.Droid.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::CarouselGallery.Droid.Resource.Id.textinput_helper_text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::CarouselGallery.Droid.Resource.Id.time;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::CarouselGallery.Droid.Resource.Id.title;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::CarouselGallery.Droid.Resource.Id.titleDividerNoCustom;
@@ -6627,8 +6627,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::CarouselGallery.Droid.Resource.String.abc_action_bar_up_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::CarouselGallery.Droid.Resource.String.abc_action_menu_overflow_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::CarouselGallery.Droid.Resource.String.abc_action_mode_done;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::CarouselGallery.Droid.Resource.String.abc_activitychooserview_choose_application;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::CarouselGallery.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::CarouselGallery.Droid.Resource.String.abc_activitychooserview_choose_application;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::CarouselGallery.Droid.Resource.String.abc_capital_off;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::CarouselGallery.Droid.Resource.String.abc_capital_on;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_1_material = global::CarouselGallery.Droid.Resource.String.abc_font_family_body_1_material;
@@ -6653,12 +6653,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_space_shortcut_label = global::CarouselGallery.Droid.Resource.String.abc_menu_space_shortcut_label;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_sym_shortcut_label = global::CarouselGallery.Droid.Resource.String.abc_menu_sym_shortcut_label;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_prepend_shortcut_label = global::CarouselGallery.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::CarouselGallery.Droid.Resource.String.abc_search_hint;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_clear;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_query;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_search;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_submit;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::CarouselGallery.Droid.Resource.String.abc_searchview_description_voice;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::CarouselGallery.Droid.Resource.String.abc_search_hint;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::CarouselGallery.Droid.Resource.String.abc_shareactionprovider_share_with;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::CarouselGallery.Droid.Resource.String.abc_shareactionprovider_share_with_application;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::CarouselGallery.Droid.Resource.String.abc_toolbar_collapse_description;
@@ -6689,8 +6689,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CarouselGallery.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::CarouselGallery.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::CarouselGallery.Droid.Resource.Style.Base_CardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
@@ -6739,6 +6739,37 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CarouselGallery.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
@@ -6748,39 +6779,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
@@ -6788,11 +6786,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V22_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V23_Theme_AppCompat;
@@ -6802,11 +6802,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::CarouselGallery.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V28_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CarouselGallery.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CarouselGallery.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::CarouselGallery.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
@@ -6822,13 +6822,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CarouselGallery.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
@@ -6874,7 +6874,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::CarouselGallery.Droid.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::CarouselGallery.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::CarouselGallery.Droid.Resource.Style.CardView_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::CarouselGallery.Droid.Resource.Style.collectionViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::CarouselGallery.Droid.Resource.Style.NestedScrollBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::CarouselGallery.Droid.Resource.Style.Platform_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Platform_AppCompat_Light;
@@ -6899,12 +6898,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CarouselGallery.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CarouselGallery.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CarouselGallery.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::CarouselGallery.Droid.Resource.Style.TextAppearance_AppCompat;
@@ -6991,6 +6990,54 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CarouselGallery.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CarouselGallery.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CarouselGallery.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::CarouselGallery.Droid.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
@@ -7010,54 +7057,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::CarouselGallery.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::CarouselGallery.Droid.Resource.Style.Theme_Design;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::CarouselGallery.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
@@ -7070,13 +7069,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CarouselGallery.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
@@ -7158,11 +7157,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_CardView = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_CardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
@@ -7179,9 +7178,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::CarouselGallery.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::CarouselGallery.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::CarouselGallery.Droid.Resource.Style.collectionViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::CarouselGallery.Droid.Resource.Styleable.ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_backgroundSplit;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_backgroundStacked;
@@ -7211,6 +7209,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_title;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::CarouselGallery.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::CarouselGallery.Droid.Resource.Styleable.ActionMenuItemView;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CarouselGallery.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::CarouselGallery.Droid.Resource.Styleable.ActionMenuView;
@@ -7249,20 +7249,20 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::CarouselGallery.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::CarouselGallery.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_android_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_Layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::CarouselGallery.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::CarouselGallery.Droid.Resource.Styleable.AppCompatImageView;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::CarouselGallery.Droid.Resource.Styleable.AppCompatImageView_android_src;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::CarouselGallery.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
@@ -7358,8 +7358,8 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::CarouselGallery.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
@@ -7455,13 +7455,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::CarouselGallery.Droid.Resource.Styleable.CardView_contentPaddingRight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::CarouselGallery.Droid.Resource.Styleable.CardView_contentPaddingTop;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip = global::CarouselGallery.Droid.Resource.Styleable.Chip;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_checkedChip = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_checkedChip;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacing = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleLine;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleSelection;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_checkable = global::CarouselGallery.Droid.Resource.Styleable.Chip_android_checkable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_ellipsize = global::CarouselGallery.Droid.Resource.Styleable.Chip_android_ellipsize;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_maxWidth = global::CarouselGallery.Droid.Resource.Styleable.Chip_android_maxWidth;
@@ -7496,6 +7489,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_showMotionSpec = global::CarouselGallery.Droid.Resource.Styleable.Chip_showMotionSpec;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textEndPadding = global::CarouselGallery.Droid.Resource.Styleable.Chip_textEndPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textStartPadding = global::CarouselGallery.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_checkedChip = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacing = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::CarouselGallery.Droid.Resource.Styleable.ChipGroup_singleSelection;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
@@ -7507,15 +7507,15 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CarouselGallery.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::CarouselGallery.Droid.Resource.Styleable.ColorStateListItem;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::CarouselGallery.Droid.Resource.Styleable.ColorStateListItem_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::CarouselGallery.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
@@ -7526,6 +7526,7 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::CarouselGallery.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
@@ -7534,7 +7535,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CarouselGallery.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::CarouselGallery.Droid.Resource.Styleable.DesignTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::CarouselGallery.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::CarouselGallery.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
@@ -7550,8 +7550,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
@@ -7563,10 +7561,18 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CarouselGallery.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout = global::CarouselGallery.Droid.Resource.Styleable.FlowLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_itemSpacing = global::CarouselGallery.Droid.Resource.Styleable.FlowLayout_itemSpacing;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_lineSpacing = global::CarouselGallery.Droid.Resource.Styleable.FlowLayout_lineSpacing;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::CarouselGallery.Droid.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_android_font;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
@@ -7578,20 +7584,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::CarouselGallery.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::CarouselGallery.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CarouselGallery.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor = global::CarouselGallery.Droid.Resource.Styleable.GradientColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_offset;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerColor = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_centerColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerX = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_centerX;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerY = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_centerY;
@@ -7604,6 +7601,9 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startY = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_startY;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_tileMode = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_type = global::CarouselGallery.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::CarouselGallery.Droid.Resource.Styleable.GradientColorItem_android_offset;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
@@ -7612,13 +7612,13 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_divider;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::CarouselGallery.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::CarouselGallery.Droid.Resource.Styleable.ListPopupWindow;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CarouselGallery.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CarouselGallery.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
@@ -7730,11 +7730,11 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::CarouselGallery.Droid.Resource.Styleable.NavigationView_itemTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::CarouselGallery.Droid.Resource.Styleable.NavigationView_menu;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::CarouselGallery.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CarouselGallery.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::CarouselGallery.Droid.Resource.Styleable.RecycleListView;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CarouselGallery.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CarouselGallery.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
@@ -7773,12 +7773,12 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::CarouselGallery.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::CarouselGallery.Droid.Resource.Styleable.SearchView_voiceIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar = global::CarouselGallery.Droid.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CarouselGallery.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::CarouselGallery.Droid.Resource.Styleable.Snackbar_snackbarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::CarouselGallery.Droid.Resource.Styleable.Spinner;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::CarouselGallery.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::CarouselGallery.Droid.Resource.Styleable.Spinner_android_entries;
@@ -7786,14 +7786,14 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::CarouselGallery.Droid.Resource.Styleable.Spinner_android_prompt;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::CarouselGallery.Droid.Resource.Styleable.Spinner_popupTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_dither = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_dither;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_visible = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::CarouselGallery.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::CarouselGallery.Droid.Resource.Styleable.SwitchCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::CarouselGallery.Droid.Resource.Styleable.SwitchCompat_android_textOff;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::CarouselGallery.Droid.Resource.Styleable.SwitchCompat_android_textOn;
@@ -7911,12 +7911,17 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMargin;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMargins;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleMargins;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::CarouselGallery.Droid.Resource.Styleable.Toolbar_titleTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::CarouselGallery.Droid.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::CarouselGallery.Droid.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::CarouselGallery.Droid.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::CarouselGallery.Droid.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::CarouselGallery.Droid.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::CarouselGallery.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::CarouselGallery.Droid.Resource.Styleable.ViewBackgroundHelper;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::CarouselGallery.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CarouselGallery.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
@@ -7925,11 +7930,6 @@ namespace CarouselGallery.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::CarouselGallery.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CarouselGallery.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::CarouselGallery.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::CarouselGallery.Droid.Resource.Styleable.View_android_focusable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::CarouselGallery.Droid.Resource.Styleable.View_android_theme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::CarouselGallery.Droid.Resource.Styleable.View_paddingEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::CarouselGallery.Droid.Resource.Styleable.View_paddingStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::CarouselGallery.Droid.Resource.Styleable.View_theme;
 		}
 		
 		public partial class Animation
@@ -10912,121 +10912,121 @@ namespace CarouselGallery.Droid
 			public const int design_snackbar_background = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int disney_logo = 2131165282;
+			public const int gallery_bar_chart = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int gallery_bar_chart = 2131165283;
-			
-			// aapt resource value: 0x7F070067
-			public const int icon_plane = 2131165287;
+			public const int h01 = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int ic_mtrl_chip_checked_black = 2131165284;
+			public const int h02 = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int ic_mtrl_chip_checked_circle = 2131165285;
+			public const int h03 = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int ic_mtrl_chip_close_circle = 2131165286;
+			public const int h04 = 2131165286;
 			
-			// aapt resource value: 0x7F070068
-			public const int IMG_0191 = 2131165288;
-			
-			// aapt resource value: 0x7F070069
-			public const int IMG_0192 = 2131165289;
-			
-			// aapt resource value: 0x7F07006A
-			public const int IMG_0193 = 2131165290;
+			// aapt resource value: 0x7F070067
+			public const int h05 = 2131165287;
 			
 			// aapt resource value: 0x7F07006B
-			public const int IMG_0194 = 2131165291;
+			public const int icon_plane = 2131165291;
+			
+			// aapt resource value: 0x7F070068
+			public const int ic_mtrl_chip_checked_black = 2131165288;
+			
+			// aapt resource value: 0x7F070069
+			public const int ic_mtrl_chip_checked_circle = 2131165289;
+			
+			// aapt resource value: 0x7F07006A
+			public const int ic_mtrl_chip_close_circle = 2131165290;
 			
 			// aapt resource value: 0x7F07006C
-			public const int IMG_0195 = 2131165292;
+			public const int IMG_0191 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int insta_00 = 2131165293;
+			public const int IMG_0192 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int insta_01 = 2131165294;
+			public const int IMG_0193 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int insta_02 = 2131165295;
+			public const int IMG_0194 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int insta_03 = 2131165296;
+			public const int IMG_0195 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int insta_04 = 2131165297;
+			public const int insta_00 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int logo_lufthansa = 2131165298;
+			public const int insta_01 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int MaterialActivityIndicatorBackground = 2131165299;
+			public const int insta_02 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int MaterialProgressBar = 2131165300;
+			public const int insta_03 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int mtrl_snackbar_background = 2131165301;
+			public const int insta_04 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int mtrl_tabs_default_indicator = 2131165302;
+			public const int logo_lufthansa = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int navigation_empty_icon = 2131165303;
+			public const int MaterialActivityIndicatorBackground = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int notification_action_background = 2131165304;
+			public const int MaterialProgressBar = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int notification_bg = 2131165305;
+			public const int mtrl_snackbar_background = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int notification_bg_low = 2131165306;
+			public const int mtrl_tabs_default_indicator = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int notification_bg_low_normal = 2131165307;
+			public const int navigation_empty_icon = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int notification_bg_low_pressed = 2131165308;
+			public const int notification_action_background = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int notification_bg_normal = 2131165309;
+			public const int notification_bg = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int notification_bg_normal_pressed = 2131165310;
+			public const int notification_bg_low = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int notification_icon_background = 2131165311;
+			public const int notification_bg_low_normal = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int notification_template_icon_bg = 2131165312;
+			public const int notification_bg_low_pressed = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int notification_template_icon_low_bg = 2131165313;
+			public const int notification_bg_normal = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int notification_tile_bg = 2131165314;
+			public const int notification_bg_normal_pressed = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int notify_panel_notification_icon_bg = 2131165315;
+			public const int notification_icon_background = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int qr_code = 2131165316;
+			public const int notification_template_icon_bg = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int rei_01 = 2131165317;
+			public const int notification_template_icon_low_bg = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int rei_02 = 2131165318;
+			public const int notification_tile_bg = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int rei_03 = 2131165319;
+			public const int notify_panel_notification_icon_bg = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int rei_04 = 2131165320;
+			public const int qr_code = 2131165320;
 			
 			// aapt resource value: 0x7F070089
 			public const int tooltip_frame_dark = 2131165321;

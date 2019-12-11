@@ -52,7 +52,7 @@ namespace CarouselGallery.UWP
 
                 rootFrame.NavigationFailed += OnNavigationFailed;
 
-                global::Xamarin.Forms.Forms.SetFlags("CarouselView_Experimental", "Shell_UWP_Experimental");
+                global::Xamarin.Forms.Forms.SetFlags("CarouselView_Experimental", "Shell_UWP_Experimental", "IndicatorView_Experimental");
                 Xamarin.Forms.Forms.Init(e);
 
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)

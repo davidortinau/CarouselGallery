@@ -103,6 +103,11 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\h01.png" />
+    <Content Include="Assets\h02.png" />
+    <Content Include="Assets\h03.png" />
+    <Content Include="Assets\h04.png" />
+    <Content Include="Assets\h05.png" />
     <Content Include="Assets\IMG_0191.JPG" />
     <Content Include="Assets\IMG_0192.JPG" />
     <Content Include="Assets\IMG_0193.JPG" />
@@ -116,10 +121,6 @@
     <Content Include="Assets\LargeTile.scale-100.png" />
     <Content Include="Assets\LargeTile.scale-200.png" />
     <Content Include="Assets\LargeTile.scale-400.png" />
-    <Content Include="Assets\rei_01.jpg" />
-    <Content Include="Assets\rei_02.jpg" />
-    <Content Include="Assets\rei_03.jpg" />
-    <Content Include="Assets\rei_04.jpg" />
     <Content Include="Assets\SmallTile.scale-100.png" />
     <Content Include="Assets\SmallTile.scale-200.png" />
     <Content Include="Assets\SmallTile.scale-400.png" />
@@ -157,7 +158,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.5.0.30-nightly" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.2" />
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.9" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
   </ItemGroup>

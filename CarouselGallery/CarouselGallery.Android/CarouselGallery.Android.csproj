@@ -54,13 +54,10 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.5.0.30-nightly" />
-    <PackageReference Include="CardsView">
-      <Version>2.3.7</Version>
-    </PackageReference>
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.2" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.5.0.30-nightly</Version>
+      <Version>4.5.0.2</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
@@ -100,18 +97,6 @@
       <Project>{BC744978-5CF9-4EA6-A197-1CD7FA5B7408}</Project>
       <Name>CarouselGallery</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-nodpi\rei_01.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-nodpi\rei_02.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-nodpi\rei_03.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-nodpi\rei_04.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-nodpi\icon_plane.jpg" />
@@ -156,7 +141,19 @@
     <AndroidResource Include="Resources\drawable-nodpi\IMG_0195.JPG" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-nodpi\disney_logo.png" />
+    <AndroidResource Include="Resources\drawable-nodpi\h01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-nodpi\h02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-nodpi\h03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-nodpi\h04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-nodpi\h05.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
