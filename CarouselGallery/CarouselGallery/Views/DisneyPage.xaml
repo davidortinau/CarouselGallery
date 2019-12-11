@@ -86,7 +86,8 @@
                 </CarouselView.ItemTemplate>
             </CarouselView>
 
-            <Image Source="https://cataas.com/cat/gif?type=sq"
+            <Image Source="JustSmileAndWave.gif"
+                   IsAnimationPlaying="True"
                    />
         </StackLayout>
     </ContentPage.Content>
