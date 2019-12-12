@@ -17,9 +17,10 @@
             <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
         
-        <Image Source="IMG_0191.jpg" 
+        <Image Source="IMG_0191.JPG" 
                Grid.RowSpan="3"
                Grid.ColumnSpan="2"
+               Opacity="0.7"
                Aspect="AspectFill"/>
         
         <!-- box -->

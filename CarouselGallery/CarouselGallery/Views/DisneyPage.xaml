@@ -30,27 +30,28 @@
                 <CarouselView.ItemsLayout>
                     <LinearItemsLayout
                         Orientation="Horizontal"
-                        ItemSpacing="0"
+                        ItemSpacing="10"
                         SnapPointsAlignment="Center"
                         SnapPointsType="MandatorySingle"/>
                 </CarouselView.ItemsLayout>
                 <CarouselView.ItemsSource>
                     <x:Array Type="{x:Type vm:DisneyItemViewModel}">
-                        <vm:DisneyItemViewModel ImageSource="h01.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h02.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h03.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h04.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h05.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h02.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h03.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h04.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="h01.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h02.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h03.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h04.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h05.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h02.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h03.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h04.png"/>
                     </x:Array>
                 </CarouselView.ItemsSource>
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
                         <Image Source="{Binding ImageSource}"
                                VerticalOptions="Start">
-                            <VisualStateManager.VisualStateGroups>
+                            <!-- Visual States are coming soon! -->
+                            <!--<VisualStateManager.VisualStateGroups>
                                 <VisualStateGroup x:Name="CarouselViewStates">
                                     <VisualState x:Name="CurrentItem">
                                         <VisualState.Setters>
@@ -80,7 +81,7 @@
                                         </VisualState.Setters>
                                     </VisualState>
                                 </VisualStateGroup>
-                            </VisualStateManager.VisualStateGroups>
+                            </VisualStateManager.VisualStateGroups>-->
                         </Image>
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
