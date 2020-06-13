@@ -17,7 +17,7 @@
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
 
-        <Image Source="IMG_0193.jpg" 
+        <Image Source="IMG_0193.JPG" 
                Grid.RowSpan="3"
                Grid.ColumnSpan="2"
                Opacity="0.7"

@@ -30,7 +30,7 @@
                 <CarouselView.ItemsLayout>
                     <LinearItemsLayout
                         Orientation="Horizontal"
-                        ItemSpacing="0"
+                        ItemSpacing="10"
                         SnapPointsAlignment="Center"
                         SnapPointsType="MandatorySingle"/>
                 </CarouselView.ItemsLayout>
@@ -50,7 +50,8 @@
                     <DataTemplate>
                         <Image Source="{Binding ImageSource}"
                                VerticalOptions="Start">
-                            <VisualStateManager.VisualStateGroups>
+                            <!-- Visual States are coming soon! -->
+                            <!--<VisualStateManager.VisualStateGroups>
                                 <VisualStateGroup x:Name="CarouselViewStates">
                                     <VisualState x:Name="CurrentItem">
                                         <VisualState.Setters>
@@ -80,7 +81,7 @@
                                         </VisualState.Setters>
                                     </VisualState>
                                 </VisualStateGroup>
-                            </VisualStateManager.VisualStateGroups>
+                            </VisualStateManager.VisualStateGroups>-->
                         </Image>
                     </DataTemplate>
                 </CarouselView.ItemTemplate>

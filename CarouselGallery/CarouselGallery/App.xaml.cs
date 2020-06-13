@@ -10,7 +10,11 @@ namespace CarouselGallery
         {
             InitializeComponent();
 
-            Device.SetFlags(new[] { "CarouselView_Experimental", "IndicatorView_Experimental", "SwipeView_Experimental" });
+            Device.SetFlags(new[] {
+                "CarouselView_Experimental",
+                "IndicatorView_Experimental",
+                "SwipeView_Experimental"
+            });
 
             MainPage = new AppShell();
         }
