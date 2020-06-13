@@ -36,14 +36,14 @@
                 </CarouselView.ItemsLayout>
                 <CarouselView.ItemsSource>
                     <x:Array Type="{x:Type vm:DisneyItemViewModel}">
-                        <vm:DisneyItemViewModel ImageSource="h01.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h02.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h03.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h04.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h05.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h02.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h03.jpg"/>
-                        <vm:DisneyItemViewModel ImageSource="h04.jpg"/>
+                        <vm:DisneyItemViewModel ImageSource="h01.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h02.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h03.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h04.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h05.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h02.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h03.png"/>
+                        <vm:DisneyItemViewModel ImageSource="h04.png"/>
                     </x:Array>
                 </CarouselView.ItemsSource>
                 <CarouselView.ItemTemplate>
@@ -86,9 +86,6 @@
                 </CarouselView.ItemTemplate>
             </CarouselView>
 
-            <Image Source="JustSmileAndWave.gif"
-                   IsAnimationPlaying="True"
-                   />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

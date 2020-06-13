@@ -22,9 +22,6 @@ namespace CarouselGallery.Droid
             SetStatusBarColor(Android.Graphics.Color.Black);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            global::Xamarin.Forms.Forms.SetFlags("CarouselView_Experimental", 
-                "IndicatorView_Experimental",
-                "UseLegacyRenderers");
             Xamarin.Forms.FormsMaterial.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());

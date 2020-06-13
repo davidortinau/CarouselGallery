@@ -20,6 +20,7 @@
         <Image Source="IMG_0193.jpg" 
                Grid.RowSpan="3"
                Grid.ColumnSpan="2"
+               Opacity="0.7"
                Aspect="AspectFill"/>
 
         <!-- box -->

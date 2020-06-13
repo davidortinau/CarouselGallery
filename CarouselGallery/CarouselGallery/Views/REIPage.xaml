@@ -17,10 +17,10 @@
                 <CarouselView x:Name="reiCV" HeightRequest="160">
                     <CarouselView.ItemsSource>
                         <x:Array Type="{x:Type x:String}">
-                            <x:String>h01.jpg</x:String>
-                            <x:String>h02.jpg</x:String>
-                            <x:String>h03.jpg</x:String>
-                            <x:String>h04.jpg</x:String>
+                            <x:String>h01.png</x:String>
+                            <x:String>h02.png</x:String>
+                            <x:String>h03.png</x:String>
+                            <x:String>h04.png</x:String>
                         </x:Array>
                     </CarouselView.ItemsSource>
                     <CarouselView.ItemTemplate>
