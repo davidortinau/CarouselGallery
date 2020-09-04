@@ -14,7 +14,9 @@
                    Padding="10"
                    BorderColor="Black"
                    CornerRadius="0">
-                <CarouselView x:Name="reiCV" HeightRequest="160">
+                <CarouselView x:Name="reiCV"
+                              IndicatorView="indicatorView"
+                              HeightRequest="160">
                     <CarouselView.ItemsSource>
                         <x:Array Type="{x:Type x:String}">
                             <x:String>h01.png</x:String>
@@ -33,8 +35,9 @@
             <IndicatorView 
                 IndicatorColor="LightGray"
                 SelectedIndicatorColor="Black"
-                IndicatorSize="10" HorizontalOptions="Center"
-                IndicatorView.ItemsSourceBy="reiCV"/>
+                IndicatorSize="10"
+                HorizontalOptions="Center"
+                x:Name="indicatorView"/>
             
 
         </StackLayout>

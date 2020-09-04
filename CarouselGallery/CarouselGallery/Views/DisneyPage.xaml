@@ -10,7 +10,7 @@
              BackgroundColor="Silver"
              x:Class="CarouselGallery.Views.DisneyPage">
     <ContentPage.Resources>
-        <ResourceDictionary>
+        <!--<ResourceDictionary>
             <Style x:Key="ActiveIndicator" TargetType="Frame">
                 <Setter Property="BackgroundColor" Value="Red" />
             </Style>
@@ -18,14 +18,14 @@
                 <Setter Property="BackgroundColor" Value="Transparent" />
                 <Setter Property="OutlineColor" Value="Red" />
             </Style>
-        </ResourceDictionary>
+        </ResourceDictionary>-->
     </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout Spacing="10">
             <CarouselView x:Name="reiCV"
                         VerticalOptions="Start"
-                        Position="1"
-                          PeekAreaInsets="50" BackgroundColor="black"
+                          PeekAreaInsets="50"
+                          BackgroundColor="black"
                           HeightRequest="200">
                 <CarouselView.ItemsLayout>
                     <LinearItemsLayout
@@ -41,9 +41,6 @@
                         <vm:DisneyItemViewModel ImageSource="h03.png"/>
                         <vm:DisneyItemViewModel ImageSource="h04.png"/>
                         <vm:DisneyItemViewModel ImageSource="h05.png"/>
-                        <vm:DisneyItemViewModel ImageSource="h02.png"/>
-                        <vm:DisneyItemViewModel ImageSource="h03.png"/>
-                        <vm:DisneyItemViewModel ImageSource="h04.png"/>
                     </x:Array>
                 </CarouselView.ItemsSource>
                 <CarouselView.ItemTemplate>
@@ -57,6 +54,7 @@
                                         <VisualState.Setters>
                                             <Setter Property="Opacity" Value="1" />
                                             <Setter Property="Scale" Value="1" />
+                                          <Setter Property="TranslationX" Value="0"/>
                                         </VisualState.Setters>
                                     </VisualState>
                                     <VisualState x:Name="PreviousItem">

@@ -16,6 +16,7 @@
         </Grid.RowDefinitions>
         <CarouselView x:Name="cv" Grid.RowSpan="2"
                       Position="2"
+                      IndicatorView="indicatorView"
                       PeekAreaInsets="60"
                       >
             <CarouselView.ItemsSource>
@@ -52,7 +53,7 @@
                 IndicatorColor="LightGray"
                 SelectedIndicatorColor="Black"
                 IndicatorSize="10" HorizontalOptions="Center"
-                IndicatorView.ItemsSourceBy="cv"/>
+                x:Name="indicatorView"/>
         </Frame>
         
     </Grid>

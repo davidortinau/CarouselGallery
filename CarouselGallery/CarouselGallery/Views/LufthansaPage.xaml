@@ -17,6 +17,8 @@
             </Grid.RowDefinitions>
 
             <CarouselView x:Name="cv"
+                          IndicatorView="indicatorView"
+                          HorizontalScrollBarVisibility="Never"
                           PeekAreaInsets="40">
                 <CarouselView.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
@@ -221,7 +223,7 @@
                 IndicatorColor="LightGray"
                 SelectedIndicatorColor="Black"
                 IndicatorSize="10" HorizontalOptions="Center"
-                IndicatorView.ItemsSourceBy="cv"/>
+                x:Name="indicatorView"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
