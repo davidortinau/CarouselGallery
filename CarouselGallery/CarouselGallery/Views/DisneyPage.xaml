@@ -9,22 +9,12 @@
              Title="Disney+"
              BackgroundColor="Silver"
              x:Class="CarouselGallery.Views.DisneyPage">
-    <ContentPage.Resources>
-        <!--<ResourceDictionary>
-            <Style x:Key="ActiveIndicator" TargetType="Frame">
-                <Setter Property="BackgroundColor" Value="Red" />
-            </Style>
-            <Style x:Key="InactiveIndicator" TargetType="Frame">
-                <Setter Property="BackgroundColor" Value="Transparent" />
-                <Setter Property="OutlineColor" Value="Red" />
-            </Style>
-        </ResourceDictionary>-->
-    </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout Spacing="10">
             <CarouselView x:Name="reiCV"
                         VerticalOptions="Start"
                           PeekAreaInsets="50"
+                          IndicatorView="indicators"
                           BackgroundColor="black"
                           HeightRequest="200">
                 <CarouselView.ItemsLayout>
@@ -84,7 +74,7 @@
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
             </CarouselView>
-
+            <IndicatorView x:Name="indicators"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -16,7 +16,7 @@
                    CornerRadius="0">
                 <CarouselView x:Name="reiCV"
                               IndicatorView="indicatorView"
-                              HeightRequest="160">
+                              HeightRequest="170">
                     <CarouselView.ItemsSource>
                         <x:Array Type="{x:Type x:String}">
                             <x:String>h01.png</x:String>
