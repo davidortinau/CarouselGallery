@@ -9,16 +9,23 @@
              xmlns:c="clr-namespace:CarouselGallery.Views.Components"
              x:Class="CarouselGallery.Views.MintPage">
 
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="90"/>
-        </Grid.RowDefinitions>
-        <CarouselView x:Name="cv" Grid.RowSpan="2"
-                      Position="2"
-                      IndicatorView="indicatorView"
-                      PeekAreaInsets="60"
-                      >
+    <Grid
+        RowDefinitions="*,90"
+        >
+
+        <CarouselView
+            Grid.Row="0"
+            Grid.RowSpan="2"
+            PeekAreaInsets="60"
+            IndicatorView="indicatorView"
+            >
+            <CarouselView.ItemsLayout>
+                <LinearItemsLayout
+                    Orientation="Horizontal"
+                    SnapPointsAlignment="Center"
+                    SnapPointsType="MandatorySingle"
+                    ItemSpacing="15"/>
+            </CarouselView.ItemsLayout>
             <CarouselView.ItemsSource>
                 <x:Array Type="{x:Type ContentView}">
                     <c:MintView01/>
@@ -36,25 +43,20 @@
                     </ScrollView>
                 </DataTemplate>
             </CarouselView.ItemTemplate>
-            <CarouselView.ItemsLayout>
-                <LinearItemsLayout
-                    Orientation="Horizontal"
-                    SnapPointsAlignment="Center"
-                    SnapPointsType="MandatorySingle"
-                    ItemSpacing="15"/>
-            </CarouselView.ItemsLayout>
         </CarouselView>
 
-        <Frame Grid.Row="1" HorizontalOptions="Center" 
+
+        <Frame Grid.Row="1"
+               HorizontalOptions="Center"
                VerticalOptions="Start"
                CornerRadius="20">
-            <IndicatorView 
-                IndicatorColor="LightGray"
-                SelectedIndicatorColor="Black"
-                IndicatorSize="10" HorizontalOptions="Center"
-                x:Name="indicatorView"/>
+            <IndicatorView x:Name="indicatorView"
+                       
+                       SelectedIndicatorColor="Black"
+                       IndicatorColor="LightGray"
+                       IndicatorSize="10"
+                       HorizontalOptions="Center"/>
         </Frame>
-        
     </Grid>
     
 </ContentPage>

@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:app="clr-namespace:CarouselGallery"
              mc:Ignorable="d"
              BackgroundColor="Wheat"
              Shell.BackgroundColor="Black"
@@ -37,8 +38,15 @@
                 SelectedIndicatorColor="Black"
                 IndicatorSize="10"
                 HorizontalOptions="Center"
-                x:Name="indicatorView"/>
-            
+                x:Name="indicatorView">
+                <IndicatorView.IndicatorTemplate>
+                    <DataTemplate>
+                        <Label Text="{x:Static app:IconFont.Hammer}"
+                               FontFamily="{StaticResource FontAwesome}"/>
+                    </DataTemplate>
+                </IndicatorView.IndicatorTemplate>
+            </IndicatorView>
+
 
         </StackLayout>
     </ContentPage.Content>

@@ -7,24 +7,26 @@
        mc:Ignorable="d"
              x:Class="CarouselGallery.AppShell">
 
-    <FlyoutItem Title="Disney+">
-        <ShellContent ContentTemplate="{DataTemplate views:DisneyPage}"/>
-    </FlyoutItem>
     <FlyoutItem Title="REI">
         <ShellContent ContentTemplate="{DataTemplate views:REIPage}"/>
     </FlyoutItem>
+
+    <!--<FlyoutItem Title="Mint">
+        <ShellContent ContentTemplate="{DataTemplate views:MintPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Disney+">
+        <ShellContent ContentTemplate="{DataTemplate views:DisneyPage}"/>
+    </FlyoutItem>
+    
     <FlyoutItem Title="Marriott">
         <ShellContent ContentTemplate="{DataTemplate views:MarriottPage}"/>
     </FlyoutItem>
     <FlyoutItem Title="Instagram">
         <ShellContent ContentTemplate="{DataTemplate views:InstagramPage}"/>
     </FlyoutItem>
-    <FlyoutItem Title="Mint">
-        <ShellContent ContentTemplate="{DataTemplate views:MintPage}"/>
-    </FlyoutItem>
     <FlyoutItem Title="Lufthansa">
         <ShellContent ContentTemplate="{DataTemplate views:LufthansaPage}"/>
-    </FlyoutItem>
+    </FlyoutItem>-->
     
 
 </Shell>
